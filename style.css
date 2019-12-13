@@ -1,0 +1,217 @@
+/* styling from sigma.js examples */
+body {
+  color: #333;
+  font-size: 14px;
+  font-family: Lato, sans-serif;
+  overflow-y: hidden;
+}
+#graph-container {
+  top: 0;
+  bottom: 0;
+  right: 500;
+  left: 0;
+  position: absolute;
+}
+
+#control-pane > div {
+  margin: 10px;
+  overflow-x: auto;
+}
+#legend-pane {
+  top: 10px;
+  right: 10px;
+  position: absolute;
+  width: 230px;
+  background-color: rgb(249, 247, 237);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+#graph .graph-pane {
+  width: 550px;
+  height: 300px;
+}
+.line {
+  clear: both;
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 12px 0 0 0;
+  border-bottom: 1px solid black;
+  background: transparent;
+}
+h2,
+h3,
+h4 {
+  padding: 0;
+  font-variant: small-caps;
+}
+.green {
+  color: #437356;
+}
+h2.underline {
+  color: #437356;
+  background: #f4f0e4;
+  margin: 0;
+  border-radius: 2px;
+  padding: 8px 12px;
+  font-weight: 700;
+}
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+input[type="range"] {
+  width: 160px;
+}
+
+.uunchecked {
+  display: none;
+}
+
+.cchecked {
+  display: inline;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-size: 12px;
+  font-family: sans-serif;
+  line-height: 1.25em;
+}
+
+#attributepane {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  left: 850;
+  background-color: #fff;
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-left: 1px solid #ccc;
+  padding: 0px 18px 0px 18px;
+  z-index: 20;
+}
+
+#attributepane .text {
+  height: 100%;
+}
+
+#attributepane .headertext {
+  color: #000;
+  margin-bottom: 5px;
+  height: 14px;
+  border-bottom: 1px solid #999;
+  padding: 0px 0 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#attributepane .returntext span {
+  padding-left: 5px;
+  display: block;
+}
+
+#attributepane .close span {
+  display: block;
+  float: left;
+}
+
+#attributepane .nodeattributes {
+  display: block;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 350px;
+  border-bottom: 1px solid #999;
+}
+
+#attributepane .name {
+  font-size: 14px;
+  cursor: default;
+  padding-bottom: 10px;
+  padding-top: 18px;
+  font-weight: bold;
+}
+
+#attributepane .p {
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.left-close {
+  margin-left: -37px;
+  z-index: 99999;
+  cursor: pointer;
+  padding-left: 31px;
+  line-height: 36px;
+  background-repeat: no-repeat;
+  margin-bottom: 25px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+#title {
+  font-weight: bold;
+}
+
+#titletext {
+  padding: 6px 0 10px 0;
+}
+
+.link h2 {
+  font-size: 1em;
+  padding-top: 1em;
+}
+
+#attributepane dl {
+  padding-bottom: 10px;
+}
+
+#attributepane h2 {
+  font-size: 14px;
+}
+
+#attributepane dt {
+  width: 20px;
+  height: 20px;
+  float: left;
+  background-repeat: no-repeat;
+}
+
+#attributepane h2 {
+  padding-bottom: 10px;
+}
+
+#legend dd {
+  margin-bottom: 8px;
+  color: #000;
+}
+
+#attributepane .node {
+    background-image: url("img/champion.png");
+}
+
+#attributepane .edge {
+    background-image: url("img/edge.png");
+}
+
+.line {
+  font-size: 12px;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  cursor: hand;
+}
+

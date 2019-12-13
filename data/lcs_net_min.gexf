@@ -1,0 +1,2452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-12-02">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="url" title="url" type="string"></attribute>
+      <attribute id="role" title="role" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Amumu" label="Amumu">
+        <attvalues>
+          <attvalue for="url" value="Amumu"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3757.11" y="-108.0718"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Aurelion Sol" label="Aurelion Sol">
+        <attvalues>
+          <attvalue for="url" value="Aurelionsol"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3015.1372" y="2189.0354"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Urgot" label="Urgot">
+        <attvalues>
+          <attvalue for="url" value="Urgot"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-1779.2584" y="3319.8167"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Blitzcrank" label="Blitzcrank">
+        <attvalues>
+          <attvalue for="url" value="Blitzcrank"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3768.433" y="674.1281"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Bard" label="Bard">
+        <attvalues>
+          <attvalue for="url" value="Bard"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="33.66129"></viz:size>
+        <viz:position x="270.5627" y="-845.9207"></viz:position>
+        <viz:color r="206" g="235" b="221"></viz:color>
+      </node>
+      <node id="Annie" label="Annie">
+        <attvalues>
+          <attvalue for="url" value="Annie"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2343.1763" y="2795.2073"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Anivia" label="Anivia">
+        <attvalues>
+          <attvalue for="url" value="Anivia"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="43.435486"></viz:size>
+        <viz:position x="1369.3495" y="16.501629"></viz:position>
+        <viz:color r="183" g="227" b="214"></viz:color>
+      </node>
+      <node id="Udyr" label="Udyr">
+        <attvalues>
+          <attvalue for="url" value="Udyr"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3221.198" y="1868.3778"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Soraka" label="Soraka">
+        <attvalues>
+          <attvalue for="url" value="Soraka"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2616.5635" y="2640.2546"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Ahri" label="Ahri">
+        <attvalues>
+          <attvalue for="url" value="Ahri"></attvalue>
+           <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="1162.7876" y="-622.83136"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Gangplank" label="Gangplank">
+        <attvalues>
+          <attvalue for="url" value="Gangplank"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="89.048386"></viz:size>
+        <viz:position x="743.28687" y="307.36942"></viz:position>
+        <viz:color r="78" g="165" b="186"></viz:color>
+      </node>
+      <node id="Swain" label="Swain">
+        <attvalues>
+          <attvalue for="url" value="Swain"></attvalue>
+          <attvalue for="role" value="support,bot,mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2898.163" y="2344.955"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Kalista" label="Kalista">
+        <attvalues>
+          <attvalue for="url" value="Kalista"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="30.403225"></viz:size>
+        <viz:position x="146.00554" y="356.97052"></viz:position>
+        <viz:color r="213" g="238" b="223" a="0.99607843"></viz:color>
+      </node>
+      <node id="Zilean" label="Zilean">
+        <attvalues>
+          <attvalue for="url" value="Zilean"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="30.403225"></viz:size>
+        <viz:position x="9.1506" y="197.57858"></viz:position>
+        <viz:color r="213" g="238" b="223" a="0.99607843"></viz:color>
+      </node>
+      <node id="Ziggs" label="Ziggs">
+        <attvalues>
+          <attvalue for="url" value="Ziggs"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="197.03735" y="-37.335682"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Zyra" label="Zyra">
+        <attvalues>
+          <attvalue for="url" value="Zyra"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="30.403225"></viz:size>
+        <viz:position x="1057.1788" y="-1005.3489"></viz:position>
+        <viz:color r="213" g="238" b="223" a="0.99607843"></viz:color>
+      </node>
+      <node id="Zed" label="Zed">
+        <attvalues>
+          <attvalue for="url" value="Zed"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="35.29032"></viz:size>
+        <viz:position x="1115.3562" y="249.65515"></viz:position>
+        <viz:color r="202" g="234" b="220"></viz:color>
+      </node>
+      <node id="Xerath" label="Xerath">
+        <attvalues>
+          <attvalue for="url" value="Xerath"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3651.1912" y="388.77625"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Zac" label="Zac">
+        <attvalues>
+          <attvalue for="url" value="Zac"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2242.8494" y="3090.3318"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Karma" label="Karma">
+        <attvalues>
+          <attvalue for="url" value="Karma"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="77.64516"></viz:size>
+        <viz:position x="734.22943" y="-1014.5671"></viz:position>
+        <viz:color r="104" g="187" b="192"></viz:color>
+      </node>
+      <node id="Kennen" label="Kennen">
+        <attvalues>
+          <attvalue for="url" value="Kennen"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="79.2742"></viz:size>
+        <viz:position x="1124.9364" y="79.67051"></viz:position>
+        <viz:color r="100" g="184" b="191"></viz:color>
+      </node>
+      <node id="Kha'Zix" label="Kha'Zix">
+        <attvalues>
+          <attvalue for="url" value="Khazix"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2067.3555" y="3033.2463"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Sona" label="Sona">
+        <attvalues>
+          <attvalue for="url" value="Sona"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="67.87097"></viz:size>
+        <viz:position x="11.368848" y="-812.0695"></viz:position>
+        <viz:color r="126" g="205" b="197"></viz:color>
+      </node>
+      <node id="Xayah" label="Xayah">
+        <attvalues>
+          <attvalue for="url" value="Xayah"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="113.48387"></viz:size>
+        <viz:position x="547.6578" y="-78.12117"></viz:position>
+        <viz:color r="22" g="116" b="175"></viz:color>
+      </node>
+      <node id="Azir" label="Azir">
+        <attvalues>
+          <attvalue for="url" value="Azir"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="93.935486"></viz:size>
+        <viz:position x="659.6084" y="-516.4699"></viz:position>
+        <viz:color r="67" g="155" b="184"></viz:color>
+      </node>
+      <node id="Akali" label="Akali">
+        <attvalues>
+          <attvalue for="url" value="Akali"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="89.048386"></viz:size>
+        <viz:position x="671.8906" y="100.20451"></viz:position>
+        <viz:color r="78" g="165" b="186"></viz:color>
+      </node>
+      <node id="Irelia" label="Irelia">
+        <attvalues>
+          <attvalue for="url" value="Irelia"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="87.41936"></viz:size>
+        <viz:position x="465.3992" y="-563.8732"></viz:position>
+        <viz:color r="82" g="168" b="187"></viz:color>
+      </node>
+      <node id="Zoe" label="Zoe">
+        <attvalues>
+          <attvalue for="url" value="Zoe"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="46.69355"></viz:size>
+        <viz:position x="-92.59594" y="-167.87645"></viz:position>
+        <viz:color r="175" g="224" b="212"></viz:color>
+      </node>
+      <node id="Yuumi" label="Yuumi">
+        <attvalues>
+          <attvalue for="url" value="Yuumi"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="71.12903"></viz:size>
+        <viz:position x="548.60657" y="247.27724"></viz:position>
+        <viz:color r="119" g="200" b="195"></viz:color>
+      </node>
+      <node id="Tahm Kench" label="Tahm Kench">
+        <attvalues>
+          <attvalue for="url" value="Tahmkench"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="93.935486"></viz:size>
+        <viz:position x="462.02402" y="-877.4784"></viz:position>
+        <viz:color r="67" g="155" b="184"></viz:color>
+      </node>
+      <node id="Janna" label="Janna">
+        <attvalues>
+          <attvalue for="url" value="Janna"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2765.478" y="2495.716"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Ivern" label="Ivern">
+        <attvalues>
+          <attvalue for="url" value="Ivern"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2389.9448" y="2986.8167"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Illaoi" label="Illaoi">
+        <attvalues>
+          <attvalue for="url" value="Illaoi"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2647.3162" y="2796.334"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Jayce" label="Jayce">
+        <attvalues>
+          <attvalue for="url" value="Jayce"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="87.41936"></viz:size>
+        <viz:position x="1217.9377" y="-434.70422"></viz:position>
+        <viz:color r="82" g="168" b="187"></viz:color>
+      </node>
+      <node id="LeBlanc" label="LeBlanc">
+        <attvalues>
+          <attvalue for="url" value="LeBlanc"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="41.80645"></viz:size>
+        <viz:position x="1110.3799" y="-305.23883"></viz:position>
+        <viz:color r="187" g="228" b="215"></viz:color>
+      </node>
+      <node id="Xin Zhao" label="Xin Zhao">
+        <attvalues>
+          <attvalue for="url" value="Xinzhao"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="43.435486"></viz:size>
+        <viz:position x="1011.458" y="205.27048"></viz:position>
+        <viz:color r="183" g="227" b="214"></viz:color>
+      </node>
+      <node id="Leona" label="Leona">
+        <attvalues>
+          <attvalue for="url" value="Leona"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="41.80645"></viz:size>
+        <viz:position x="572.69073" y="386.8884"></viz:position>
+        <viz:color r="187" g="228" b="215"></viz:color>
+      </node>
+      <node id="Sejuani" label="Sejuani">
+        <attvalues>
+          <attvalue for="url" value="Sejuani"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="113.48387"></viz:size>
+        <viz:position x="443.67322" y="-344.067"></viz:position>
+        <viz:color r="22" g="116" b="175"></viz:color>
+      </node>
+      <node id="Jarvan IV" label="Jarvan IV">
+        <attvalues>
+          <attvalue for="url" value="Jarvaniv"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="120.0"></viz:size>
+        <viz:position x="688.0005" y="-773.2864"></viz:position>
+        <viz:color r="8" g="104" b="172"></viz:color>
+      </node>
+      <node id="Shaco" label="Shaco">
+        <attvalues>
+          <attvalue for="url" value="Shaco"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2792.0186" y="2658.9683"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Shyvana" label="Shyvana">
+        <attvalues>
+          <attvalue for="url" value="Shyvana"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3122.2148" y="2030.3302"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Shen" label="Shen">
+        <attvalues>
+          <attvalue for="url" value="Shen"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="1439.7078" y="-193.3066"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Rengar" label="Rengar">
+        <attvalues>
+          <attvalue for="url" value="Rengar"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3634.5896" y="1307.9104"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Karthus" label="Karthus">
+        <attvalues>
+          <attvalue for="url" value="Karthus"></attvalue>
+          <attvalue for="role" value="mid,jungle"></attvalue>
+        </attvalues>
+        <viz:size value="36.919353"></viz:size>
+        <viz:position x="1258.0444" y="-5.434458"></viz:position>
+        <viz:color r="198" g="233" b="219"></viz:color>
+      </node>
+      <node id="Riven" label="Riven">
+        <attvalues>
+          <attvalue for="url" value="Riven"></attvalue>
+          <attvalue for="role" value="top,mid"></attvalue>
+        </attvalues>
+        <viz:size value="43.435486"></viz:size>
+        <viz:position x="1329.0624" y="-754.5216"></viz:position>
+        <viz:color r="183" g="227" b="214"></viz:color>
+      </node>
+      <node id="Renekton" label="Renekton">
+        <attvalues>
+          <attvalue for="url" value="Renekton"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="67.87097"></viz:size>
+        <viz:position x="75.54718" y="58.83067"></viz:position>
+        <viz:color r="126" g="205" b="197"></viz:color>
+      </node>
+      <node id="Rammus" label="Rammus">
+        <attvalues>
+          <attvalue for="url" value="Rammus"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2726.8992" y="2333.7402"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Rakan" label="Rakan">
+        <attvalues>
+          <attvalue for="url" value="Rakan"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="100.451614"></viz:size>
+        <viz:position x="880.1283" y="-453.945"></viz:position>
+        <viz:color r="52" g="142" b="181"></viz:color>
+      </node>
+      <node id="Draven" label="Draven">
+        <attvalues>
+          <attvalue for="url" value="Draven"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="51.580643"></viz:size>
+        <viz:position x="15.892139" y="-396.63098"></viz:position>
+        <viz:color r="164" g="219" b="208"></viz:color>
+      </node>
+      <node id="Darius" label="Darius">
+        <attvalues>
+          <attvalue for="url" value="Darius"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3561.42" y="1495.8319"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Dr. Mundo" label="Dr. Mundo">
+        <attvalues>
+          <attvalue for="url" value="Drmundo"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3471.852" y="1350.0531"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Quinn" label="Quinn">
+        <attvalues>
+          <attvalue for="url" value="Quinn"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3747.3506" y="849.45386"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Rumble" label="Rumble">
+        <attvalues>
+          <attvalue for="url" value="Rumble"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="69.5"></viz:size>
+        <viz:position x="901.9691" y="-914.86176"></viz:position>
+        <viz:color r="123" g="204" b="196"></viz:color>
+      </node>
+      <node id="Ekko" label="Ekko">
+        <attvalues>
+          <attvalue for="url" value="Ekko"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3382.615" y="1202.489"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Diana" label="Diana">
+        <attvalues>
+          <attvalue for="url" value="Diana"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="210.08362" y="-676.27234"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Skarner" label="Skarner">
+        <attvalues>
+          <attvalue for="url" value="Skarner"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="85.79032"></viz:size>
+        <viz:position x="332.82104" y="-724.2288"></viz:position>
+        <viz:color r="85" g="171" b="188"></viz:color>
+      </node>
+      <node id="Qiyana" label="Qiyana">
+        <attvalues>
+          <attvalue for="url" value="Qiyana"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="62.98387"></viz:size>
+        <viz:position x="178.73407" y="-781.0391"></viz:position>
+        <viz:color r="138" g="209" b="200"></viz:color>
+      </node>
+      <node id="Lux" label="Lux">
+        <attvalues>
+          <attvalue for="url" value="Lux"></attvalue>
+          <attvalue for="role" value="mid,support"></attvalue>
+        </attvalues>
+        <viz:size value="89.048386"></viz:size>
+        <viz:position x="796.4161" y="-58.623665"></viz:position>
+        <viz:color r="78" g="165" b="186"></viz:color>
+      </node>
+      <node id="Olaf" label="Olaf">
+        <attvalues>
+          <attvalue for="url" value="Olaf"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="53.20968"></viz:size>
+        <viz:position x="1220.4827" y="-253.66953"></viz:position>
+        <viz:color r="160" g="218" b="207"></viz:color>
+      </node>
+      <node id="Corki" label="Corki">
+        <attvalues>
+          <attvalue for="url" value="Corki"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="100.451614"></viz:size>
+        <viz:position x="181.40132" y="-305.06778"></viz:position>
+        <viz:color r="52" g="142" b="181"></viz:color>
+      </node>
+      <node id="Elise" label="Elise">
+        <attvalues>
+          <attvalue for="url" value="Elise"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="59.725807"></viz:size>
+        <viz:position x="1310.799" y="-149.77905"></viz:position>
+        <viz:color r="145" g="212" b="202"></viz:color>
+      </node>
+      <node id="Aatrox" label="Aatrox">
+        <attvalues>
+          <attvalue for="url" value="Aatrox"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="120.0"></viz:size>
+        <viz:position x="699.9584" y="-269.0686"></viz:position>
+        <viz:color r="8" g="104" b="172"></viz:color>
+      </node>
+      <node id="Sion" label="Sion">
+        <attvalues>
+          <attvalue for="url" value="Sion"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3292.7385" y="2023.5089"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Lucian" label="Lucian">
+        <attvalues>
+          <attvalue for="url" value="Lucian"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="69.5"></viz:size>
+        <viz:position x="106.707794" y="-119.537"></viz:position>
+        <viz:color r="123" g="204" b="196"></viz:color>
+      </node>
+      <node id="Sivir" label="Sivir">
+        <attvalues>
+          <attvalue for="url" value="Sivir"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="108.59677"></viz:size>
+        <viz:position x="965.57477" y="-216.60567"></viz:position>
+        <viz:color r="33" g="126" b="177"></viz:color>
+      </node>
+      <node id="Rek'Sai" label="Rek'Sai">
+        <attvalues>
+          <attvalue for="url" value="Reksai"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="84.161285"></viz:size>
+        <viz:position x="1139.5181" y="-755.0434"></viz:position>
+        <viz:color r="89" g="174" b="189"></viz:color>
+      </node>
+      <node id="Vladimir" label="Vladimir">
+        <attvalues>
+          <attvalue for="url" value="Vladimir"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="56.467743"></viz:size>
+        <viz:position x="1273.5801" y="-616.59326"></viz:position>
+        <viz:color r="153" g="215" b="205"></viz:color>
+      </node>
+      <node id="Volibear" label="Volibear">
+        <attvalues>
+          <attvalue for="url" value="Volibear"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="967.80365" y="616.27606"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Neeko" label="Neeko">
+        <attvalues>
+          <attvalue for="url" value="Neeko"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="61.35484"></viz:size>
+        <viz:position x="184.82155" y="-940.22626"></viz:position>
+        <viz:color r="141" g="211" b="201"></viz:color>
+      </node>
+      <node id="Varus" label="Varus">
+        <attvalues>
+          <attvalue for="url" value="Varus"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="74.3871"></viz:size>
+        <viz:position x="1058.8503" y="-573.23376"></viz:position>
+        <viz:color r="111" g="194" b="193"></viz:color>
+      </node>
+      <node id="Fiora" label="Fiora">
+        <attvalues>
+          <attvalue for="url" value="Fiora"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="-84.42996" y="213.5972"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Fizz" label="Fizz">
+        <attvalues>
+          <attvalue for="url" value="Fizz"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2502.7551" y="2865.5664"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Fiddlesticks" label="Fiddlesticks">
+        <attvalues>
+          <attvalue for="url" value="Fiddlesticks"></attvalue>
+          <attvalue for="role" value="jungle,support"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3226.6926" y="1551.4497"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Syndra" label="Syndra">
+        <attvalues>
+          <attvalue for="url" value="Syndra"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="69.5"></viz:size>
+        <viz:position x="333.33698" y="-1051.5"></viz:position>
+        <viz:color r="123" g="204" b="196"></viz:color>
+      </node>
+      <node id="Garen" label="Garen">
+        <attvalues>
+          <attvalue for="url" value="Garen"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3812.9075" y="304.64966"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Sylas" label="Sylas">
+        <attvalues>
+          <attvalue for="url" value="Sylas"></attvalue>
+          <attvalue for="role" value="mid,jungle,top"></attvalue>
+        </attvalues>
+        <viz:size value="115.1129"></viz:size>
+        <viz:position x="367.03818" y="127.21455"></viz:position>
+        <viz:color r="19" g="113" b="174"></viz:color>
+      </node>
+      <node id="Ezreal" label="Ezreal">
+        <attvalues>
+          <attvalue for="url" value="Ezreal"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="100.451614"></viz:size>
+        <viz:position x="254.45027" y="-531.3612"></viz:position>
+        <viz:color r="52" g="142" b="181"></viz:color>
+      </node>
+      <node id="Cassiopeia" label="Cassiopeia">
+        <attvalues>
+          <attvalue for="url" value="Cassiopeia"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="45.064514"></viz:size>
+        <viz:position x="268.97528" y="303.45236"></viz:position>
+        <viz:color r="179" g="225" b="213"></viz:color>
+      </node>
+      <node id="Teemo" label="Teemo">
+        <attvalues>
+          <attvalue for="url" value="Teemo"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3306.5942" y="1380.8455"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Jhin" label="Jhin">
+        <attvalues>
+          <attvalue for="url" value="Jhin"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-1913.6677" y="3203.2817"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Jinx" label="Jinx">
+        <attvalues>
+          <attvalue for="url" value="Jinx"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="35.29032"></viz:size>
+        <viz:position x="312.48965" y="-930.82837"></viz:position>
+        <viz:color r="202" g="234" b="220"></viz:color>
+      </node>
+      <node id="Yorick" label="Yorick">
+        <attvalues>
+          <attvalue for="url" value="Yorick"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3312.4124" y="1701.9148"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Cho'Gath" label="Cho'Gath">
+        <attvalues>
+          <attvalue for="url" value="Chogath"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2456.8074" y="2668.211"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Nidalee" label="Nidalee">
+        <attvalues>
+          <attvalue for="url" value="Nidalee"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3548.148" y="1164.7444"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Talon" label="Talon">
+        <attvalues>
+          <attvalue for="url" value="Talon"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="1124.293" y="-216.22395"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Ryze" label="Ryze">
+        <attvalues>
+          <attvalue for="url" value="Ryze"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="62.98387"></viz:size>
+        <viz:position x="-106.61372" y="-318.18555"></viz:position>
+        <viz:color r="138" g="209" b="200"></viz:color>
+      </node>
+      <node id="Pyke" label="Pyke">
+        <attvalues>
+          <attvalue for="url" value="Pyke"></attvalue>
+          <attvalue for="role" value="support,top"></attvalue>
+        </attvalues>
+        <viz:size value="51.580643"></viz:size>
+        <viz:position x="21.187702" y="-232.25548"></viz:position>
+        <viz:color r="164" g="219" b="208"></viz:color>
+      </node>
+      <node id="Taric" label="Taric">
+        <attvalues>
+          <attvalue for="url" value="Taric"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="45.064514"></viz:size>
+        <viz:position x="-26.229387" y="-648.1025"></viz:position>
+        <viz:color r="179" g="225" b="213"></viz:color>
+      </node>
+      <node id="Nami" label="Nami">
+        <attvalues>
+          <attvalue for="url" value="Nami"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="-264.54636" y="-272.59277"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Jax" label="Jax">
+        <attvalues>
+          <attvalue for="url" value="Jax"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="30.403225"></viz:size>
+        <viz:position x="-29.1428" y="-476.6709"></viz:position>
+        <viz:color r="213" g="238" b="223" a="0.99607843"></viz:color>
+      </node>
+      <node id="Nasus" label="Nasus">
+        <attvalues>
+          <attvalue for="url" value="Nasus"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3636.329" y="963.6613"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Alistar" label="Alistar">
+        <attvalues>
+          <attvalue for="url" value="Alistar"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="51.580643"></viz:size>
+        <viz:position x="505.11258" y="-725.64844"></viz:position>
+        <viz:color r="164" g="219" b="208"></viz:color>
+      </node>
+      <node id="Nautilus" label="Nautilus">
+        <attvalues>
+          <attvalue for="url" value="Nautilus"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="93.935486"></viz:size>
+        <viz:position x="936.93677" y="-713.7451"></viz:position>
+        <viz:color r="67" g="155" b="184"></viz:color>
+      </node>
+      <node id="Gragas" label="Gragas">
+        <attvalues>
+          <attvalue for="url" value="Gragas"></attvalue>
+          <attvalue for="role" value="jungle,support"></attvalue>
+        </attvalues>
+        <viz:size value="82.53226"></viz:size>
+        <viz:position x="875.6478" y="137.40002"></viz:position>
+        <viz:color r="93" g="178" b="189"></viz:color>
+      </node>
+      <node id="Graves" label="Graves">
+        <attvalues>
+          <attvalue for="url" value="Graves"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="336.42212" y="-1315.0974"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Camille" label="Camille">
+        <attvalues>
+          <attvalue for="url" value="Camille"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="45.064514"></viz:size>
+        <viz:position x="-129.61917" y="-727.19025"></viz:position>
+        <viz:color r="179" g="225" b="213"></viz:color>
+      </node>
+      <node id="Yasuo" label="Yasuo">
+        <attvalues>
+          <attvalue for="url" value="Yasuo"></attvalue>
+          <attvalue for="role" value="mid,bot"></attvalue>
+        </attvalues>
+        <viz:size value="46.69355"></viz:size>
+        <viz:position x="170.2597" y="226.72702"></viz:position>
+        <viz:color r="175" g="224" b="212"></viz:color>
+      </node>
+      <node id="Taliyah" label="Taliyah">
+        <attvalues>
+          <attvalue for="url" value="Taliyah"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="38.548386"></viz:size>
+        <viz:position x="1032.86" y="-877.94275"></viz:position>
+        <viz:color r="194" g="231" b="218"></viz:color>
+      </node>
+      <node id="Lissandra" label="Lissandra">
+        <attvalues>
+          <attvalue for="url" value="Lissandra"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="30.403225"></viz:size>
+        <viz:position x="-45.563232" y="-559.1522"></viz:position>
+        <viz:color r="213" g="238" b="223" a="0.99607843"></viz:color>
+      </node>
+      <node id="Orianna" label="Orianna">
+        <attvalues>
+          <attvalue for="url" value="Orianna"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="54.838707"></viz:size>
+        <viz:position x="1365.3223" y="-301.22052"></viz:position>
+        <viz:color r="156" g="217" b="206"></viz:color>
+      </node>
+      <node id="Ornn" label="Ornn">
+        <attvalues>
+          <attvalue for="url" value="Ornn"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="32.032257"></viz:size>
+        <viz:position x="878.29584" y="451.6472"></viz:position>
+        <viz:color r="209" g="237" b="222"></viz:color>
+      </node>
+      <node id="Veigar" label="Veigar">
+        <attvalues>
+          <attvalue for="url" value="Veigar"></attvalue>
+          <attvalue for="role" value="mid,support"></attvalue>
+        </attvalues>
+        <viz:size value="38.548386"></viz:size>
+        <viz:position x="208.74495" y="30.386341"></viz:position>
+        <viz:color r="194" g="231" b="218"></viz:color>
+      </node>
+      <node id="Ashe" label="Ashe">
+        <attvalues>
+          <attvalue for="url" value="Ashe"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="38.548386"></viz:size>
+        <viz:position x="715.3078" y="497.01437"></viz:position>
+        <viz:color r="194" g="231" b="218"></viz:color>
+      </node>
+      <node id="Caitlyn" label="Caitlyn">
+        <attvalues>
+          <attvalue for="url" value="Caitlyn"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="74.3871"></viz:size>
+        <viz:position x="419.031" y="360.9032"></viz:position>
+        <viz:color r="111" g="194" b="193"></viz:color>
+      </node>
+      <node id="Poppy" label="Poppy">
+        <attvalues>
+          <attvalue for="url" value="Poppy"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="58.09677"></viz:size>
+        <viz:position x="102.22599" y="-648.68854"></viz:position>
+        <viz:color r="149" g="214" b="204"></viz:color>
+      </node>
+      <node id="Galio" label="Galio">
+        <attvalues>
+          <attvalue for="url" value="Galio"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="36.919353"></viz:size>
+        <viz:position x="-223.22626" y="-380.85623"></viz:position>
+        <viz:color r="198" g="233" b="219"></viz:color>
+      </node>
+      <node id="Thresh" label="Thresh">
+        <attvalues>
+          <attvalue for="url" value="Thresh"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="62.98387"></viz:size>
+        <viz:position x="981.8035" y="-10.473648"></viz:position>
+        <viz:color r="138" g="209" b="200"></viz:color>
+      </node>
+      <node id="Kassadin" label="Kassadin">
+        <attvalues>
+          <attvalue for="url" value="Kassadin"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3512.2654" y="854.537"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Nunu &amp; Willump" label="Nunu &amp; Willump">
+        <attvalues>
+          <attvalue for="url" value="Nunu"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2592.2954" y="2484.7214"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Tryndamere" label="Tryndamere">
+        <attvalues>
+          <attvalue for="url" value="Tryndamere"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3481.0466" y="1677.6399"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Twisted Fate" label="Twisted Fate">
+        <attvalues>
+          <attvalue for="url" value="Twistedfate"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="58.09677"></viz:size>
+        <viz:position x="1061.4791" y="-402.38348"></viz:position>
+        <viz:color r="149" g="214" b="204"></viz:color>
+      </node>
+      <node id="Wukong" label="Wukong">
+        <attvalues>
+          <attvalue for="url" value="Monkeyking"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2079.094" y="3199.707"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Warwick" label="Warwick">
+        <attvalues>
+          <attvalue for="url" value="Warwick"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3785.0303" y="69.7547"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Twitch" label="Twitch">
+        <attvalues>
+          <attvalue for="url" value="Twitch"></attvalue>
+          <attvalue for="role" value="bot,jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2934.7202" y="2509.5867"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Kled" label="Kled">
+        <attvalues>
+          <attvalue for="url" value="Kled"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="54.838707"></viz:size>
+        <viz:position x="802.93774" y="-602.50745"></viz:position>
+        <viz:color r="156" g="217" b="206"></viz:color>
+      </node>
+      <node id="Morgana" label="Morgana">
+        <attvalues>
+          <attvalue for="url" value="Morgana"></attvalue>
+          <attvalue for="role" value="support,bot"></attvalue>
+        </attvalues>
+        <viz:size value="58.09677"></viz:size>
+        <viz:position x="938.8641" y="305.55112"></viz:position>
+        <viz:color r="149" g="214" b="204"></viz:color>
+      </node>
+      <node id="Lee Sin" label="Lee Sin">
+        <attvalues>
+          <attvalue for="url" value="Leesin"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="51.580643"></viz:size>
+        <viz:position x="-139.36719" y="-472.95087"></viz:position>
+        <viz:color r="164" g="219" b="208"></viz:color>
+      </node>
+      <node id="Braum" label="Braum">
+        <attvalues>
+          <attvalue for="url" value="Braum"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="95.564514"></viz:size>
+        <viz:position x="305.19046" y="-123.48052"></viz:position>
+        <viz:color r="63" g="152" b="183"></viz:color>
+      </node>
+      <node id="Brand" label="Brand">
+        <attvalues>
+          <attvalue for="url" value="Brand"></attvalue>
+          <attvalue for="role" value="mid,support"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3609.9707" y="561.03534"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Trundle" label="Trundle">
+        <attvalues>
+          <attvalue for="url" value="Trundle"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="71.12903"></viz:size>
+        <viz:position x="1139.1154" y="-99.55043"></viz:position>
+        <viz:color r="119" g="200" b="195"></viz:color>
+      </node>
+      <node id="Viktor" label="Viktor">
+        <attvalues>
+          <attvalue for="url" value="Viktor"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="54.838707"></viz:size>
+        <viz:position x="-16.382061" y="-55.197273"></viz:position>
+        <viz:color r="156" g="217" b="206"></viz:color>
+      </node>
+      <node id="Vi" label="Vi">
+        <attvalues>
+          <attvalue for="url" value="Vi"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="-235.73393" y="-163.00778"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Lulu" label="Lulu">
+        <attvalues>
+          <attvalue for="url" value="Lulu"></attvalue>
+          <attvalue for="role" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3703.4556" y="1105.6731"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Tristana" label="Tristana">
+        <attvalues>
+          <attvalue for="url" value="Tristana"></attvalue>
+          <attvalue for="role" value="mid,top,bot"></attvalue>
+        </attvalues>
+        <viz:size value="56.467743"></viz:size>
+        <viz:position x="57.409466" y="-518.8999"></viz:position>
+        <viz:color r="153" g="215" b="205"></viz:color>
+      </node>
+      <node id="Pantheon" label="Pantheon">
+        <attvalues>
+          <attvalue for="url" value="Pantheon"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="-132.19312" y="-591.1438"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Kindred" label="Kindred">
+        <attvalues>
+          <attvalue for="url" value="Kindred"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2843.1145" y="2183.1213"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Vayne" label="Vayne">
+        <attvalues>
+          <attvalue for="url" value="Vayne"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="994.9751" y="102.53782"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Kai'Sa" label="Kai'Sa">
+        <attvalues>
+          <attvalue for="url" value="Kaisa"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="84.161285"></viz:size>
+        <viz:position x="558.6171" y="-1072.9937"></viz:position>
+        <viz:color r="89" g="174" b="189"></viz:color>
+      </node>
+      <node id="Heimerdinger" label="Heimerdinger">
+        <attvalues>
+          <attvalue for="url" value="Heimerdinger"></attvalue>
+          <attvalue for="role" value="mid,top,bot"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3460.6194" y="1025.2228"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Hecarim" label="Hecarim">
+        <attvalues>
+          <attvalue for="url" value="Hecarim"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="40.17742"></viz:size>
+        <viz:position x="-101.869255" y="67.01737"></viz:position>
+        <viz:color r="190" g="230" b="216"></viz:color>
+      </node>
+      <node id="Singed" label="Singed">
+        <attvalues>
+          <attvalue for="url" value="Singed"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3066.3562" y="2351.3513"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Evelynn" label="Evelynn">
+        <attvalues>
+          <attvalue for="url" value="Evelynn"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3184.806" y="2189.096"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Vel'koz" label="Vel'koz">
+        <attvalues>
+          <attvalue for="url" value="Velkoz"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3395.6968" y="1529.5261"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Kog'Maw" label="Kog'Maw">
+        <attvalues>
+          <attvalue for="url" value="Kogmaw"></attvalue>
+          <attvalue for="role" value="bot"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="237.2978" y="-1205.5024"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Maokai" label="Maokai">
+        <attvalues>
+          <attvalue for="url" value="Maokai"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2217.9116" y="2913.9"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Gnar" label="Gnar">
+        <attvalues>
+          <attvalue for="url" value="Gnar"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="36.919353"></viz:size>
+        <viz:position x="188.65433" y="128.0734"></viz:position>
+        <viz:color r="198" g="233" b="219"></viz:color>
+      </node>
+      <node id="Kayn" label="Kayn">
+        <attvalues>
+          <attvalue for="url" value="Kayn"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3683.1902" y="197.21875"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Master Yi" label="Master Yi">
+        <attvalues>
+          <attvalue for="url" value="Masteryi"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3048.5037" y="1874.4728"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Mordekaiser" label="Mordekaiser">
+        <attvalues>
+          <attvalue for="url" value="Mordekaiser"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3140.8313" y="1715.3484"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Miss Fortune" label="Miss Fortune">
+        <attvalues>
+          <attvalue for="url" value="Missfortune"></attvalue>
+          <attvalue for="role" value="bottom"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3789.5479" y="499.7926"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Malphite" label="Malphite">
+        <attvalues>
+          <attvalue for="url" value="Malphite"></attvalue>
+          <attvalue for="role" value="top"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="916.2178" y="-1057.8123"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+      <node id="Malzahar" label="Malzahar">
+        <attvalues>
+          <attvalue for="url" value="Malzahar"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3391.4006" y="1853.3772"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Katarina" label="Katarina">
+        <attvalues>
+          <attvalue for="url" value="Katarina"></attvalue>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-2949.453" y="2030.1465"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Kayle" label="Kayle">
+        <attvalues>
+          <attvalue for="url" value="Kayle"></attvalue>
+          <attvalue for="role" value="mid,top"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-3600.1672" y="723.9691"></viz:position>
+        <viz:color r="240" g="249" b="232"></viz:color>
+      </node>
+      <node id="Nocturne" label="Nocturne">
+        <attvalues>
+          <attvalue for="url" value="Nocturne"></attvalue>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="32.032257"></viz:size>
+        <viz:position x="1153.7703" y="-945.5911"></viz:position>
+        <viz:color r="209" g="237" b="222"></viz:color>
+      </node>
+      <node id="Vel'Koz">
+        <attvalues>
+          <attvalue for="role" value="mid"></attvalue>
+        </attvalues>
+        <viz:size value="41.80645"></viz:size>
+        <viz:position x="-155.65562" y="-52.769855"></viz:position>
+        <viz:color r="187" g="228" b="215"></viz:color>
+      </node>
+      <node id="Nunu">
+        <attvalues>
+          <attvalue for="role" value="jungle"></attvalue>
+        </attvalues>
+        <viz:size value="25.516129"></viz:size>
+        <viz:position x="1047.4481" y="576.44995"></viz:position>
+        <viz:color r="224" g="243" b="227"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Xayah" target="Aatrox" weight="40.0"></edge>
+      <edge id="1" source="Xayah" target="Trundle" weight="12.0"></edge>
+      <edge id="2" source="Xayah" target="Azir" weight="18.0"></edge>
+      <edge id="3" source="Xayah" target="Yuumi" weight="4.0"></edge>
+      <edge id="4" source="Aatrox" target="Trundle" weight="12.0"></edge>
+      <edge id="5" source="Aatrox" target="Azir" weight="16.0"></edge>
+      <edge id="6" source="Aatrox" target="Yuumi" weight="12.0"></edge>
+      <edge id="7" source="Trundle" target="Azir" weight="4.0"></edge>
+      <edge id="8" source="Trundle" target="Yuumi" weight="2.0"></edge>
+      <edge id="9" source="Azir" target="Yuumi" weight="6.0"></edge>
+      <edge id="10" source="Xayah" target="Ornn" weight="2.0"></edge>
+      <edge id="11" source="Xayah" target="Gragas" weight="12.0"></edge>
+      <edge id="12" source="Xayah" target="Corki" weight="12.0"></edge>
+      <edge id="13" source="Xayah" target="Rakan" weight="70.0"></edge>
+      <edge id="14" source="Ornn" target="Gragas" weight="2.0"></edge>
+      <edge id="15" source="Ornn" target="Corki" weight="2.0"></edge>
+      <edge id="16" source="Ornn" target="Rakan" weight="2.0"></edge>
+      <edge id="17" source="Gragas" target="Corki" weight="2.0"></edge>
+      <edge id="18" source="Gragas" target="Rakan" weight="10.0"></edge>
+      <edge id="19" source="Corki" target="Rakan" weight="14.0"></edge>
+      <edge id="20" source="Xayah" target="Viktor" weight="4.0"></edge>
+      <edge id="21" source="Aatrox" target="Gragas" weight="16.0"></edge>
+      <edge id="22" source="Aatrox" target="Viktor" weight="6.0"></edge>
+      <edge id="23" source="Aatrox" target="Rakan" weight="30.0"></edge>
+      <edge id="24" source="Gragas" target="Viktor" weight="2.0"></edge>
+      <edge id="25" source="Viktor" target="Rakan" weight="4.0"></edge>
+      <edge id="26" source="Xayah" target="Rumble" weight="8.0"></edge>
+      <edge id="27" source="Xayah" target="Jarvan IV" weight="26.0"></edge>
+      <edge id="28" source="Rumble" target="Jarvan IV" weight="10.0"></edge>
+      <edge id="29" source="Rumble" target="Azir" weight="2.0"></edge>
+      <edge id="30" source="Rumble" target="Rakan" weight="8.0"></edge>
+      <edge id="31" source="Jarvan IV" target="Azir" weight="14.0"></edge>
+      <edge id="32" source="Jarvan IV" target="Rakan" weight="16.0"></edge>
+      <edge id="33" source="Azir" target="Rakan" weight="16.0"></edge>
+      <edge id="34" source="Xayah" target="Kennen" weight="14.0"></edge>
+      <edge id="35" source="Kennen" target="Trundle" weight="2.0"></edge>
+      <edge id="36" source="Kennen" target="Viktor" weight="2.0"></edge>
+      <edge id="37" source="Kennen" target="Rakan" weight="8.0"></edge>
+      <edge id="38" source="Trundle" target="Viktor" weight="6.0"></edge>
+      <edge id="39" source="Trundle" target="Rakan" weight="8.0"></edge>
+      <edge id="40" source="Sivir" target="Ornn" weight="2.0"></edge>
+      <edge id="41" source="Sivir" target="Sejuani" weight="22.0"></edge>
+      <edge id="42" source="Sivir" target="Akali" weight="12.0"></edge>
+      <edge id="43" source="Sivir" target="Morgana" weight="2.0"></edge>
+      <edge id="44" source="Ornn" target="Sejuani" weight="2.0"></edge>
+      <edge id="45" source="Ornn" target="Akali" weight="2.0"></edge>
+      <edge id="46" source="Ornn" target="Morgana" weight="2.0"></edge>
+      <edge id="47" source="Sejuani" target="Akali" weight="14.0"></edge>
+      <edge id="48" source="Sejuani" target="Morgana" weight="2.0"></edge>
+      <edge id="49" source="Akali" target="Morgana" weight="6.0"></edge>
+      <edge id="50" source="Sivir" target="Aatrox" weight="20.0"></edge>
+      <edge id="51" source="Sivir" target="Jarvan IV" weight="28.0"></edge>
+      <edge id="52" source="Sivir" target="Lissandra" weight="2.0"></edge>
+      <edge id="53" source="Sivir" target="Lux" weight="12.0"></edge>
+      <edge id="54" source="Aatrox" target="Jarvan IV" weight="20.0"></edge>
+      <edge id="55" source="Aatrox" target="Lissandra" weight="4.0"></edge>
+      <edge id="56" source="Aatrox" target="Lux" weight="12.0"></edge>
+      <edge id="57" source="Jarvan IV" target="Lissandra" weight="2.0"></edge>
+      <edge id="58" source="Jarvan IV" target="Lux" weight="14.0"></edge>
+      <edge id="59" source="Lissandra" target="Lux" weight="2.0"></edge>
+      <edge id="60" source="Kai'Sa" target="Gangplank" weight="12.0"></edge>
+      <edge id="61" source="Kai'Sa" target="Jarvan IV" weight="8.0"></edge>
+      <edge id="62" source="Kai'Sa" target="Corki" weight="8.0"></edge>
+      <edge id="63" source="Kai'Sa" target="Nautilus" weight="14.0"></edge>
+      <edge id="64" source="Gangplank" target="Jarvan IV" weight="8.0"></edge>
+      <edge id="65" source="Gangplank" target="Corki" weight="12.0"></edge>
+      <edge id="66" source="Gangplank" target="Nautilus" weight="10.0"></edge>
+      <edge id="67" source="Jarvan IV" target="Corki" weight="24.0"></edge>
+      <edge id="68" source="Jarvan IV" target="Nautilus" weight="24.0"></edge>
+      <edge id="69" source="Corki" target="Nautilus" weight="6.0"></edge>
+      <edge id="70" source="Jinx" target="Kennen" weight="2.0"></edge>
+      <edge id="71" source="Jinx" target="Sejuani" weight="4.0"></edge>
+      <edge id="72" source="Jinx" target="Corki" weight="2.0"></edge>
+      <edge id="73" source="Jinx" target="Tahm Kench" weight="4.0"></edge>
+      <edge id="74" source="Kennen" target="Sejuani" weight="6.0"></edge>
+      <edge id="75" source="Kennen" target="Corki" weight="6.0"></edge>
+      <edge id="76" source="Kennen" target="Tahm Kench" weight="8.0"></edge>
+      <edge id="77" source="Sejuani" target="Corki" weight="22.0"></edge>
+      <edge id="78" source="Sejuani" target="Tahm Kench" weight="24.0"></edge>
+      <edge id="79" source="Corki" target="Tahm Kench" weight="10.0"></edge>
+      <edge id="80" source="Varus" target="Aatrox" weight="10.0"></edge>
+      <edge id="81" source="Varus" target="Sejuani" weight="10.0"></edge>
+      <edge id="82" source="Varus" target="Corki" weight="4.0"></edge>
+      <edge id="83" source="Varus" target="Braum" weight="6.0"></edge>
+      <edge id="84" source="Aatrox" target="Sejuani" weight="26.0"></edge>
+      <edge id="85" source="Aatrox" target="Corki" weight="14.0"></edge>
+      <edge id="86" source="Aatrox" target="Braum" weight="20.0"></edge>
+      <edge id="87" source="Sejuani" target="Braum" weight="16.0"></edge>
+      <edge id="88" source="Corki" target="Braum" weight="14.0"></edge>
+      <edge id="89" source="Sivir" target="Olaf" weight="8.0"></edge>
+      <edge id="90" source="Sivir" target="Orianna" weight="4.0"></edge>
+      <edge id="91" source="Sivir" target="Nautilus" weight="36.0"></edge>
+      <edge id="92" source="Jarvan IV" target="Olaf" weight="2.0"></edge>
+      <edge id="93" source="Jarvan IV" target="Orianna" weight="6.0"></edge>
+      <edge id="94" source="Olaf" target="Orianna" weight="2.0"></edge>
+      <edge id="95" source="Olaf" target="Nautilus" weight="10.0"></edge>
+      <edge id="96" source="Orianna" target="Nautilus" weight="2.0"></edge>
+      <edge id="97" source="Sona" target="Neeko" weight="4.0"></edge>
+      <edge id="98" source="Sona" target="Jarvan IV" weight="12.0"></edge>
+      <edge id="99" source="Sona" target="Azir" weight="8.0"></edge>
+      <edge id="100" source="Sona" target="Taric" weight="14.0"></edge>
+      <edge id="101" source="Neeko" target="Jarvan IV" weight="6.0"></edge>
+      <edge id="102" source="Neeko" target="Azir" weight="6.0"></edge>
+      <edge id="103" source="Neeko" target="Taric" weight="4.0"></edge>
+      <edge id="104" source="Jarvan IV" target="Taric" weight="6.0"></edge>
+      <edge id="105" source="Azir" target="Taric" weight="4.0"></edge>
+      <edge id="106" source="Xayah" target="Sejuani" weight="28.0"></edge>
+      <edge id="107" source="Xayah" target="Taliyah" weight="2.0"></edge>
+      <edge id="108" source="Rumble" target="Sejuani" weight="4.0"></edge>
+      <edge id="109" source="Rumble" target="Taliyah" weight="2.0"></edge>
+      <edge id="110" source="Sejuani" target="Taliyah" weight="2.0"></edge>
+      <edge id="111" source="Sejuani" target="Rakan" weight="20.0"></edge>
+      <edge id="112" source="Taliyah" target="Rakan" weight="2.0"></edge>
+      <edge id="113" source="Lucian" target="Irelia" weight="4.0"></edge>
+      <edge id="114" source="Lucian" target="Sejuani" weight="10.0"></edge>
+      <edge id="115" source="Lucian" target="Neeko" weight="4.0"></edge>
+      <edge id="116" source="Lucian" target="Thresh" weight="4.0"></edge>
+      <edge id="117" source="Irelia" target="Sejuani" weight="22.0"></edge>
+      <edge id="118" source="Irelia" target="Neeko" weight="8.0"></edge>
+      <edge id="119" source="Irelia" target="Thresh" weight="2.0"></edge>
+      <edge id="120" source="Sejuani" target="Neeko" weight="6.0"></edge>
+      <edge id="121" source="Sejuani" target="Thresh" weight="8.0"></edge>
+      <edge id="122" source="Neeko" target="Thresh" weight="4.0"></edge>
+      <edge id="123" source="Sivir" target="Gangplank" weight="10.0"></edge>
+      <edge id="124" source="Sivir" target="Pyke" weight="6.0"></edge>
+      <edge id="125" source="Gangplank" target="Sejuani" weight="12.0"></edge>
+      <edge id="126" source="Gangplank" target="Akali" weight="6.0"></edge>
+      <edge id="127" source="Gangplank" target="Pyke" weight="2.0"></edge>
+      <edge id="128" source="Sejuani" target="Pyke" weight="2.0"></edge>
+      <edge id="129" source="Akali" target="Pyke" weight="2.0"></edge>
+      <edge id="130" source="Ezreal" target="Renekton" weight="6.0"></edge>
+      <edge id="131" source="Ezreal" target="Jarvan IV" weight="16.0"></edge>
+      <edge id="132" source="Ezreal" target="Karma" weight="6.0"></edge>
+      <edge id="133" source="Ezreal" target="Bard" weight="4.0"></edge>
+      <edge id="134" source="Renekton" target="Jarvan IV" weight="6.0"></edge>
+      <edge id="135" source="Renekton" target="Karma" weight="2.0"></edge>
+      <edge id="136" source="Renekton" target="Bard" weight="2.0"></edge>
+      <edge id="137" source="Jarvan IV" target="Karma" weight="6.0"></edge>
+      <edge id="138" source="Jarvan IV" target="Bard" weight="6.0"></edge>
+      <edge id="139" source="Karma" target="Bard" weight="2.0"></edge>
+      <edge id="140" source="Varus" target="Kled" weight="2.0"></edge>
+      <edge id="141" source="Varus" target="Skarner" weight="6.0"></edge>
+      <edge id="142" source="Varus" target="Thresh" weight="2.0"></edge>
+      <edge id="143" source="Kled" target="Skarner" weight="2.0"></edge>
+      <edge id="144" source="Kled" target="Corki" weight="4.0"></edge>
+      <edge id="145" source="Kled" target="Thresh" weight="2.0"></edge>
+      <edge id="146" source="Skarner" target="Corki" weight="14.0"></edge>
+      <edge id="147" source="Skarner" target="Thresh" weight="4.0"></edge>
+      <edge id="148" source="Corki" target="Thresh" weight="6.0"></edge>
+      <edge id="149" source="Ezreal" target="Sejuani" weight="18.0"></edge>
+      <edge id="150" source="Ezreal" target="Corki" weight="12.0"></edge>
+      <edge id="151" source="Ezreal" target="Braum" weight="12.0"></edge>
+      <edge id="152" source="Renekton" target="Sejuani" weight="6.0"></edge>
+      <edge id="153" source="Renekton" target="Corki" weight="2.0"></edge>
+      <edge id="154" source="Renekton" target="Braum" weight="2.0"></edge>
+      <edge id="155" source="Kai'Sa" target="Poppy" weight="4.0"></edge>
+      <edge id="156" source="Kai'Sa" target="Rakan" weight="18.0"></edge>
+      <edge id="157" source="Poppy" target="Jarvan IV" weight="6.0"></edge>
+      <edge id="158" source="Poppy" target="Corki" weight="10.0"></edge>
+      <edge id="159" source="Poppy" target="Rakan" weight="8.0"></edge>
+      <edge id="160" source="Sivir" target="Jayce" weight="8.0"></edge>
+      <edge id="161" source="Sivir" target="Trundle" weight="6.0"></edge>
+      <edge id="162" source="Sivir" target="Veigar" weight="4.0"></edge>
+      <edge id="163" source="Jayce" target="Trundle" weight="4.0"></edge>
+      <edge id="164" source="Jayce" target="Veigar" weight="6.0"></edge>
+      <edge id="165" source="Jayce" target="Lux" weight="10.0"></edge>
+      <edge id="166" source="Trundle" target="Veigar" weight="2.0"></edge>
+      <edge id="167" source="Trundle" target="Lux" weight="6.0"></edge>
+      <edge id="168" source="Veigar" target="Lux" weight="4.0"></edge>
+      <edge id="169" source="Ezreal" target="Jayce" weight="8.0"></edge>
+      <edge id="170" source="Ezreal" target="Lee Sin" weight="6.0"></edge>
+      <edge id="171" source="Ezreal" target="Twisted Fate" weight="6.0"></edge>
+      <edge id="172" source="Ezreal" target="Yuumi" weight="12.0"></edge>
+      <edge id="173" source="Jayce" target="Lee Sin" weight="6.0"></edge>
+      <edge id="174" source="Jayce" target="Twisted Fate" weight="2.0"></edge>
+      <edge id="175" source="Jayce" target="Yuumi" weight="4.0"></edge>
+      <edge id="176" source="Lee Sin" target="Twisted Fate" weight="2.0"></edge>
+      <edge id="177" source="Lee Sin" target="Yuumi" weight="2.0"></edge>
+      <edge id="178" source="Twisted Fate" target="Yuumi" weight="6.0"></edge>
+      <edge id="179" source="Ashe" target="Akali" weight="2.0"></edge>
+      <edge id="180" source="Ashe" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="181" source="Ashe" target="Sylas" weight="2.0"></edge>
+      <edge id="182" source="Ashe" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="183" source="Akali" target="Jarvan IV" weight="18.0"></edge>
+      <edge id="184" source="Akali" target="Sylas" weight="6.0"></edge>
+      <edge id="185" source="Akali" target="Tahm Kench" weight="8.0"></edge>
+      <edge id="186" source="Jarvan IV" target="Sylas" weight="6.0"></edge>
+      <edge id="187" source="Jarvan IV" target="Tahm Kench" weight="22.0"></edge>
+      <edge id="188" source="Sylas" target="Tahm Kench" weight="18.0"></edge>
+      <edge id="189" source="Aatrox" target="Hecarim" weight="2.0"></edge>
+      <edge id="190" source="Aatrox" target="Sylas" weight="28.0"></edge>
+      <edge id="191" source="Aatrox" target="Galio" weight="2.0"></edge>
+      <edge id="192" source="Hecarim" target="Sylas" weight="2.0"></edge>
+      <edge id="193" source="Hecarim" target="Galio" weight="2.0"></edge>
+      <edge id="194" source="Hecarim" target="Varus" weight="2.0"></edge>
+      <edge id="195" source="Sylas" target="Galio" weight="4.0"></edge>
+      <edge id="196" source="Sylas" target="Varus" weight="8.0"></edge>
+      <edge id="197" source="Galio" target="Varus" weight="2.0"></edge>
+      <edge id="198" source="Camille" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="199" source="Camille" target="Akali" weight="2.0"></edge>
+      <edge id="200" source="Camille" target="Taric" weight="2.0"></edge>
+      <edge id="201" source="Camille" target="Sona" weight="2.0"></edge>
+      <edge id="202" source="Rek'Sai" target="Akali" weight="6.0"></edge>
+      <edge id="203" source="Rek'Sai" target="Taric" weight="2.0"></edge>
+      <edge id="204" source="Rek'Sai" target="Sona" weight="4.0"></edge>
+      <edge id="205" source="Akali" target="Taric" weight="2.0"></edge>
+      <edge id="206" source="Akali" target="Sona" weight="4.0"></edge>
+      <edge id="207" source="Kai'Sa" target="Akali" weight="12.0"></edge>
+      <edge id="208" source="Kai'Sa" target="Sejuani" weight="12.0"></edge>
+      <edge id="209" source="Kai'Sa" target="Irelia" weight="14.0"></edge>
+      <edge id="210" source="Kai'Sa" target="Braum" weight="14.0"></edge>
+      <edge id="211" source="Akali" target="Irelia" weight="4.0"></edge>
+      <edge id="212" source="Akali" target="Braum" weight="4.0"></edge>
+      <edge id="213" source="Irelia" target="Braum" weight="12.0"></edge>
+      <edge id="214" source="Sivir" target="Karma" weight="12.0"></edge>
+      <edge id="215" source="Sivir" target="Xin Zhao" weight="2.0"></edge>
+      <edge id="216" source="Sivir" target="Thresh" weight="4.0"></edge>
+      <edge id="217" source="Karma" target="Xin Zhao" weight="2.0"></edge>
+      <edge id="218" source="Karma" target="Veigar" weight="2.0"></edge>
+      <edge id="219" source="Karma" target="Thresh" weight="2.0"></edge>
+      <edge id="220" source="Xin Zhao" target="Veigar" weight="2.0"></edge>
+      <edge id="221" source="Xin Zhao" target="Thresh" weight="2.0"></edge>
+      <edge id="222" source="Veigar" target="Thresh" weight="2.0"></edge>
+      <edge id="223" source="Kai'Sa" target="Kled" weight="2.0"></edge>
+      <edge id="224" source="Kled" target="Sejuani" weight="8.0"></edge>
+      <edge id="225" source="Kled" target="Irelia" weight="4.0"></edge>
+      <edge id="226" source="Kled" target="Braum" weight="4.0"></edge>
+      <edge id="227" source="Xayah" target="Sylas" weight="24.0"></edge>
+      <edge id="228" source="Xayah" target="Alistar" weight="8.0"></edge>
+      <edge id="229" source="Aatrox" target="Alistar" weight="4.0"></edge>
+      <edge id="230" source="Sejuani" target="Sylas" weight="14.0"></edge>
+      <edge id="231" source="Sejuani" target="Alistar" weight="8.0"></edge>
+      <edge id="232" source="Sylas" target="Alistar" weight="2.0"></edge>
+      <edge id="233" source="Kai'Sa" target="Gragas" weight="2.0"></edge>
+      <edge id="234" source="Kai'Sa" target="Qiyana" weight="4.0"></edge>
+      <edge id="235" source="Kai'Sa" target="Alistar" weight="2.0"></edge>
+      <edge id="236" source="Poppy" target="Gragas" weight="2.0"></edge>
+      <edge id="237" source="Poppy" target="Qiyana" weight="2.0"></edge>
+      <edge id="238" source="Poppy" target="Alistar" weight="2.0"></edge>
+      <edge id="239" source="Gragas" target="Qiyana" weight="12.0"></edge>
+      <edge id="240" source="Gragas" target="Alistar" weight="2.0"></edge>
+      <edge id="241" source="Qiyana" target="Alistar" weight="2.0"></edge>
+      <edge id="242" source="Xayah" target="Vladimir" weight="8.0"></edge>
+      <edge id="243" source="Vladimir" target="Jarvan IV" weight="10.0"></edge>
+      <edge id="244" source="Vladimir" target="Aatrox" weight="8.0"></edge>
+      <edge id="245" source="Vladimir" target="Alistar" weight="2.0"></edge>
+      <edge id="246" source="Jarvan IV" target="Alistar" weight="2.0"></edge>
+      <edge id="247" source="Ezreal" target="Aatrox" weight="16.0"></edge>
+      <edge id="248" source="Ezreal" target="Gragas" weight="12.0"></edge>
+      <edge id="249" source="Ezreal" target="Qiyana" weight="10.0"></edge>
+      <edge id="250" source="Aatrox" target="Qiyana" weight="10.0"></edge>
+      <edge id="251" source="Gragas" target="Braum" weight="8.0"></edge>
+      <edge id="252" source="Qiyana" target="Braum" weight="2.0"></edge>
+      <edge id="253" source="Caitlyn" target="Gangplank" weight="4.0"></edge>
+      <edge id="254" source="Caitlyn" target="Gragas" weight="4.0"></edge>
+      <edge id="255" source="Caitlyn" target="Sylas" weight="8.0"></edge>
+      <edge id="256" source="Caitlyn" target="Thresh" weight="2.0"></edge>
+      <edge id="257" source="Gangplank" target="Gragas" weight="2.0"></edge>
+      <edge id="258" source="Gangplank" target="Sylas" weight="4.0"></edge>
+      <edge id="259" source="Gangplank" target="Thresh" weight="4.0"></edge>
+      <edge id="260" source="Gragas" target="Sylas" weight="4.0"></edge>
+      <edge id="261" source="Gragas" target="Thresh" weight="2.0"></edge>
+      <edge id="262" source="Sylas" target="Thresh" weight="4.0"></edge>
+      <edge id="263" source="Draven" target="Aatrox" weight="6.0"></edge>
+      <edge id="264" source="Draven" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="265" source="Draven" target="Taliyah" weight="2.0"></edge>
+      <edge id="266" source="Draven" target="Morgana" weight="4.0"></edge>
+      <edge id="267" source="Aatrox" target="Rek'Sai" weight="8.0"></edge>
+      <edge id="268" source="Aatrox" target="Taliyah" weight="6.0"></edge>
+      <edge id="269" source="Aatrox" target="Morgana" weight="10.0"></edge>
+      <edge id="270" source="Rek'Sai" target="Taliyah" weight="4.0"></edge>
+      <edge id="271" source="Rek'Sai" target="Morgana" weight="4.0"></edge>
+      <edge id="272" source="Taliyah" target="Morgana" weight="4.0"></edge>
+      <edge id="273" source="Sivir" target="Kled" weight="2.0"></edge>
+      <edge id="274" source="Sivir" target="Gragas" weight="4.0"></edge>
+      <edge id="275" source="Sivir" target="Sylas" weight="20.0"></edge>
+      <edge id="276" source="Sivir" target="Rakan" weight="4.0"></edge>
+      <edge id="277" source="Kled" target="Gragas" weight="2.0"></edge>
+      <edge id="278" source="Kled" target="Sylas" weight="4.0"></edge>
+      <edge id="279" source="Kled" target="Rakan" weight="4.0"></edge>
+      <edge id="280" source="Sylas" target="Rakan" weight="20.0"></edge>
+      <edge id="281" source="Kai'Sa" target="Kennen" weight="2.0"></edge>
+      <edge id="282" source="Kennen" target="Irelia" weight="2.0"></edge>
+      <edge id="283" source="Kennen" target="Braum" weight="2.0"></edge>
+      <edge id="284" source="Ezreal" target="Veigar" weight="2.0"></edge>
+      <edge id="285" source="Ezreal" target="Lux" weight="8.0"></edge>
+      <edge id="286" source="Jayce" target="Jarvan IV" weight="10.0"></edge>
+      <edge id="287" source="Jarvan IV" target="Veigar" weight="2.0"></edge>
+      <edge id="288" source="Sivir" target="Vladimir" weight="8.0"></edge>
+      <edge id="289" source="Vladimir" target="Lux" weight="4.0"></edge>
+      <edge id="290" source="Sivir" target="Malphite" weight="2.0"></edge>
+      <edge id="291" source="Sivir" target="Lee Sin" weight="2.0"></edge>
+      <edge id="292" source="Sivir" target="Braum" weight="10.0"></edge>
+      <edge id="293" source="Malphite" target="Lee Sin" weight="2.0"></edge>
+      <edge id="294" source="Malphite" target="Vladimir" weight="2.0"></edge>
+      <edge id="295" source="Malphite" target="Braum" weight="2.0"></edge>
+      <edge id="296" source="Lee Sin" target="Vladimir" weight="2.0"></edge>
+      <edge id="297" source="Lee Sin" target="Braum" weight="6.0"></edge>
+      <edge id="298" source="Vladimir" target="Braum" weight="4.0"></edge>
+      <edge id="299" source="Neeko" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="300" source="Neeko" target="Lux" weight="6.0"></edge>
+      <edge id="301" source="Neeko" target="Xayah" weight="8.0"></edge>
+      <edge id="302" source="Rek'Sai" target="Azir" weight="10.0"></edge>
+      <edge id="303" source="Rek'Sai" target="Lux" weight="4.0"></edge>
+      <edge id="304" source="Rek'Sai" target="Xayah" weight="10.0"></edge>
+      <edge id="305" source="Azir" target="Lux" weight="8.0"></edge>
+      <edge id="306" source="Lux" target="Xayah" weight="14.0"></edge>
+      <edge id="307" source="Varus" target="Irelia" weight="2.0"></edge>
+      <edge id="308" source="Varus" target="Gragas" weight="2.0"></edge>
+      <edge id="309" source="Varus" target="Yasuo" weight="2.0"></edge>
+      <edge id="310" source="Irelia" target="Gragas" weight="6.0"></edge>
+      <edge id="311" source="Irelia" target="Yasuo" weight="2.0"></edge>
+      <edge id="312" source="Gragas" target="Yasuo" weight="8.0"></edge>
+      <edge id="313" source="Yasuo" target="Braum" weight="4.0"></edge>
+      <edge id="314" source="Ezreal" target="Akali" weight="2.0"></edge>
+      <edge id="315" source="Ezreal" target="Yasuo" weight="2.0"></edge>
+      <edge id="316" source="Akali" target="Gragas" weight="6.0"></edge>
+      <edge id="317" source="Akali" target="Yasuo" weight="2.0"></edge>
+      <edge id="318" source="Caitlyn" target="Aatrox" weight="6.0"></edge>
+      <edge id="319" source="Caitlyn" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="320" source="Caitlyn" target="Taliyah" weight="2.0"></edge>
+      <edge id="321" source="Caitlyn" target="Morgana" weight="10.0"></edge>
+      <edge id="322" source="Ezreal" target="Kled" weight="4.0"></edge>
+      <edge id="323" source="Kled" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="324" source="Kled" target="Twisted Fate" weight="4.0"></edge>
+      <edge id="325" source="Kled" target="Yuumi" weight="2.0"></edge>
+      <edge id="326" source="Jarvan IV" target="Twisted Fate" weight="8.0"></edge>
+      <edge id="327" source="Jarvan IV" target="Yuumi" weight="4.0"></edge>
+      <edge id="328" source="Gragas" target="Yuumi" weight="6.0"></edge>
+      <edge id="329" source="Qiyana" target="Yuumi" weight="2.0"></edge>
+      <edge id="330" source="Xayah" target="Xin Zhao" weight="4.0"></edge>
+      <edge id="331" source="Xayah" target="Akali" weight="18.0"></edge>
+      <edge id="332" source="Aatrox" target="Xin Zhao" weight="2.0"></edge>
+      <edge id="333" source="Aatrox" target="Akali" weight="6.0"></edge>
+      <edge id="334" source="Xin Zhao" target="Akali" weight="4.0"></edge>
+      <edge id="335" source="Xin Zhao" target="Rakan" weight="6.0"></edge>
+      <edge id="336" source="Akali" target="Rakan" weight="16.0"></edge>
+      <edge id="337" source="Ezreal" target="Irelia" weight="14.0"></edge>
+      <edge id="338" source="Ezreal" target="Alistar" weight="2.0"></edge>
+      <edge id="339" source="Kled" target="Alistar" weight="2.0"></edge>
+      <edge id="340" source="Irelia" target="Alistar" weight="4.0"></edge>
+      <edge id="341" source="Sona" target="Rumble" weight="2.0"></edge>
+      <edge id="342" source="Sona" target="Graves" weight="2.0"></edge>
+      <edge id="343" source="Sona" target="Syndra" weight="2.0"></edge>
+      <edge id="344" source="Sona" target="Tahm Kench" weight="16.0"></edge>
+      <edge id="345" source="Rumble" target="Graves" weight="2.0"></edge>
+      <edge id="346" source="Rumble" target="Syndra" weight="2.0"></edge>
+      <edge id="347" source="Rumble" target="Tahm Kench" weight="8.0"></edge>
+      <edge id="348" source="Graves" target="Syndra" weight="2.0"></edge>
+      <edge id="349" source="Graves" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="350" source="Syndra" target="Tahm Kench" weight="4.0"></edge>
+      <edge id="351" source="Syndra" target="Cassiopeia" weight="2.0"></edge>
+      <edge id="352" source="Syndra" target="Jarvan IV" weight="6.0"></edge>
+      <edge id="353" source="Syndra" target="Zed" weight="2.0"></edge>
+      <edge id="354" source="Syndra" target="Nautilus" weight="6.0"></edge>
+      <edge id="355" source="Cassiopeia" target="Jarvan IV" weight="6.0"></edge>
+      <edge id="356" source="Cassiopeia" target="Zed" weight="2.0"></edge>
+      <edge id="357" source="Cassiopeia" target="Nautilus" weight="4.0"></edge>
+      <edge id="358" source="Jarvan IV" target="Zed" weight="2.0"></edge>
+      <edge id="359" source="Zed" target="Nautilus" weight="4.0"></edge>
+      <edge id="360" source="Sivir" target="Irelia" weight="8.0"></edge>
+      <edge id="361" source="Sivir" target="Twisted Fate" weight="8.0"></edge>
+      <edge id="362" source="Irelia" target="Jarvan IV" weight="10.0"></edge>
+      <edge id="363" source="Irelia" target="Twisted Fate" weight="4.0"></edge>
+      <edge id="364" source="Irelia" target="Lux" weight="10.0"></edge>
+      <edge id="365" source="Twisted Fate" target="Lux" weight="4.0"></edge>
+      <edge id="366" source="Rumble" target="Lee Sin" weight="2.0"></edge>
+      <edge id="367" source="Rumble" target="Jayce" weight="4.0"></edge>
+      <edge id="368" source="Rumble" target="Braum" weight="4.0"></edge>
+      <edge id="369" source="Rumble" target="Varus" weight="6.0"></edge>
+      <edge id="370" source="Lee Sin" target="Varus" weight="2.0"></edge>
+      <edge id="371" source="Jayce" target="Braum" weight="4.0"></edge>
+      <edge id="372" source="Jayce" target="Varus" weight="6.0"></edge>
+      <edge id="373" source="Pyke" target="Lee Sin" weight="2.0"></edge>
+      <edge id="374" source="Pyke" target="Sylas" weight="4.0"></edge>
+      <edge id="375" source="Pyke" target="Rakan" weight="4.0"></edge>
+      <edge id="376" source="Pyke" target="Xayah" weight="4.0"></edge>
+      <edge id="377" source="Lee Sin" target="Sylas" weight="2.0"></edge>
+      <edge id="378" source="Lee Sin" target="Rakan" weight="4.0"></edge>
+      <edge id="379" source="Lee Sin" target="Xayah" weight="4.0"></edge>
+      <edge id="380" source="Sylas" target="Skarner" weight="16.0"></edge>
+      <edge id="381" source="Sylas" target="Azir" weight="8.0"></edge>
+      <edge id="382" source="Sylas" target="Lux" weight="10.0"></edge>
+      <edge id="383" source="Skarner" target="Azir" weight="8.0"></edge>
+      <edge id="384" source="Skarner" target="Lux" weight="14.0"></edge>
+      <edge id="385" source="Skarner" target="Caitlyn" weight="8.0"></edge>
+      <edge id="386" source="Azir" target="Caitlyn" weight="8.0"></edge>
+      <edge id="387" source="Lux" target="Caitlyn" weight="18.0"></edge>
+      <edge id="388" source="Kai'Sa" target="Skarner" weight="18.0"></edge>
+      <edge id="389" source="Kai'Sa" target="Renekton" weight="8.0"></edge>
+      <edge id="390" source="Kai'Sa" target="Leona" weight="2.0"></edge>
+      <edge id="391" source="Gangplank" target="Skarner" weight="12.0"></edge>
+      <edge id="392" source="Gangplank" target="Renekton" weight="2.0"></edge>
+      <edge id="393" source="Gangplank" target="Leona" weight="2.0"></edge>
+      <edge id="394" source="Skarner" target="Renekton" weight="4.0"></edge>
+      <edge id="395" source="Skarner" target="Leona" weight="2.0"></edge>
+      <edge id="396" source="Renekton" target="Leona" weight="4.0"></edge>
+      <edge id="397" source="Ezreal" target="Rakan" weight="8.0"></edge>
+      <edge id="398" source="Karma" target="Gragas" weight="2.0"></edge>
+      <edge id="399" source="Karma" target="Qiyana" weight="4.0"></edge>
+      <edge id="400" source="Karma" target="Rakan" weight="8.0"></edge>
+      <edge id="401" source="Qiyana" target="Rakan" weight="12.0"></edge>
+      <edge id="402" source="Kai'Sa" target="Viktor" weight="2.0"></edge>
+      <edge id="403" source="Viktor" target="Sejuani" weight="4.0"></edge>
+      <edge id="404" source="Viktor" target="Irelia" weight="2.0"></edge>
+      <edge id="405" source="Viktor" target="Nautilus" weight="4.0"></edge>
+      <edge id="406" source="Sejuani" target="Nautilus" weight="22.0"></edge>
+      <edge id="407" source="Irelia" target="Nautilus" weight="10.0"></edge>
+      <edge id="408" source="Sivir" target="Qiyana" weight="4.0"></edge>
+      <edge id="409" source="Karma" target="Sylas" weight="4.0"></edge>
+      <edge id="410" source="Sylas" target="Qiyana" weight="4.0"></edge>
+      <edge id="411" source="Ezreal" target="Leona" weight="2.0"></edge>
+      <edge id="412" source="Karma" target="Sejuani" weight="10.0"></edge>
+      <edge id="413" source="Karma" target="Irelia" weight="2.0"></edge>
+      <edge id="414" source="Karma" target="Leona" weight="2.0"></edge>
+      <edge id="415" source="Sejuani" target="Leona" weight="4.0"></edge>
+      <edge id="416" source="Irelia" target="Leona" weight="4.0"></edge>
+      <edge id="417" source="Sivir" target="Skarner" weight="16.0"></edge>
+      <edge id="418" source="Karma" target="Skarner" weight="6.0"></edge>
+      <edge id="419" source="Karma" target="Gangplank" weight="4.0"></edge>
+      <edge id="420" source="Karma" target="Nautilus" weight="2.0"></edge>
+      <edge id="421" source="Skarner" target="Nautilus" weight="8.0"></edge>
+      <edge id="422" source="Sivir" target="Rumble" weight="10.0"></edge>
+      <edge id="423" source="Sivir" target="Tahm Kench" weight="14.0"></edge>
+      <edge id="424" source="Rumble" target="Sylas" weight="8.0"></edge>
+      <edge id="425" source="Rumble" target="Qiyana" weight="4.0"></edge>
+      <edge id="426" source="Qiyana" target="Tahm Kench" weight="6.0"></edge>
+      <edge id="427" source="Sivir" target="Azir" weight="12.0"></edge>
+      <edge id="428" source="Sivir" target="Tristana" weight="6.0"></edge>
+      <edge id="429" source="Azir" target="Tristana" weight="2.0"></edge>
+      <edge id="430" source="Azir" target="Nautilus" weight="8.0"></edge>
+      <edge id="431" source="Skarner" target="Tristana" weight="2.0"></edge>
+      <edge id="432" source="Tristana" target="Nautilus" weight="6.0"></edge>
+      <edge id="433" source="Kai'Sa" target="Rumble" weight="2.0"></edge>
+      <edge id="434" source="Kai'Sa" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="435" source="Kai'Sa" target="Sylas" weight="8.0"></edge>
+      <edge id="436" source="Rumble" target="Rek'Sai" weight="6.0"></edge>
+      <edge id="437" source="Rumble" target="Nautilus" weight="8.0"></edge>
+      <edge id="438" source="Rek'Sai" target="Sylas" weight="6.0"></edge>
+      <edge id="439" source="Rek'Sai" target="Nautilus" weight="6.0"></edge>
+      <edge id="440" source="Sylas" target="Nautilus" weight="20.0"></edge>
+      <edge id="441" source="Azir" target="Sejuani" weight="22.0"></edge>
+      <edge id="442" source="Xayah" target="Qiyana" weight="6.0"></edge>
+      <edge id="443" source="Xayah" target="Leona" weight="6.0"></edge>
+      <edge id="444" source="Aatrox" target="Leona" weight="2.0"></edge>
+      <edge id="445" source="Gragas" target="Leona" weight="4.0"></edge>
+      <edge id="446" source="Qiyana" target="Leona" weight="2.0"></edge>
+      <edge id="447" source="Xayah" target="Nautilus" weight="16.0"></edge>
+      <edge id="448" source="Aatrox" target="Nautilus" weight="20.0"></edge>
+      <edge id="449" source="Rumble" target="Skarner" weight="4.0"></edge>
+      <edge id="450" source="Rumble" target="Irelia" weight="4.0"></edge>
+      <edge id="451" source="Skarner" target="Irelia" weight="12.0"></edge>
+      <edge id="452" source="Skarner" target="Braum" weight="8.0"></edge>
+      <edge id="453" source="Tristana" target="Sejuani" weight="6.0"></edge>
+      <edge id="454" source="Tristana" target="Karma" weight="4.0"></edge>
+      <edge id="455" source="Tristana" target="Tahm Kench" weight="4.0"></edge>
+      <edge id="456" source="Karma" target="Tahm Kench" weight="6.0"></edge>
+      <edge id="457" source="Kai'Sa" target="Syndra" weight="2.0"></edge>
+      <edge id="458" source="Gangplank" target="Syndra" weight="8.0"></edge>
+      <edge id="459" source="Gangplank" target="Braum" weight="6.0"></edge>
+      <edge id="460" source="Skarner" target="Syndra" weight="2.0"></edge>
+      <edge id="461" source="Syndra" target="Braum" weight="2.0"></edge>
+      <edge id="462" source="Xayah" target="Renekton" weight="2.0"></edge>
+      <edge id="463" source="Xayah" target="Syndra" weight="6.0"></edge>
+      <edge id="464" source="Renekton" target="Syndra" weight="2.0"></edge>
+      <edge id="465" source="Sejuani" target="Syndra" weight="6.0"></edge>
+      <edge id="466" source="Syndra" target="Leona" weight="2.0"></edge>
+      <edge id="467" source="Caitlyn" target="Gnar" weight="2.0"></edge>
+      <edge id="468" source="Caitlyn" target="Karma" weight="4.0"></edge>
+      <edge id="469" source="Gnar" target="Skarner" weight="4.0"></edge>
+      <edge id="470" source="Gnar" target="Karma" weight="2.0"></edge>
+      <edge id="471" source="Gnar" target="Morgana" weight="2.0"></edge>
+      <edge id="472" source="Skarner" target="Morgana" weight="2.0"></edge>
+      <edge id="473" source="Karma" target="Morgana" weight="2.0"></edge>
+      <edge id="474" source="Ezreal" target="Gnar" weight="4.0"></edge>
+      <edge id="475" source="Ezreal" target="Sylas" weight="10.0"></edge>
+      <edge id="476" source="Ezreal" target="Tahm Kench" weight="20.0"></edge>
+      <edge id="477" source="Gnar" target="Sylas" weight="4.0"></edge>
+      <edge id="478" source="Gnar" target="Irelia" weight="2.0"></edge>
+      <edge id="479" source="Gnar" target="Tahm Kench" weight="6.0"></edge>
+      <edge id="480" source="Sylas" target="Irelia" weight="6.0"></edge>
+      <edge id="481" source="Irelia" target="Tahm Kench" weight="10.0"></edge>
+      <edge id="482" source="Xayah" target="Irelia" weight="8.0"></edge>
+      <edge id="483" source="Xayah" target="Skarner" weight="10.0"></edge>
+      <edge id="484" source="Irelia" target="Rakan" weight="6.0"></edge>
+      <edge id="485" source="Skarner" target="Rakan" weight="16.0"></edge>
+      <edge id="486" source="Lux" target="Rakan" weight="4.0"></edge>
+      <edge id="487" source="Xayah" target="Lucian" weight="2.0"></edge>
+      <edge id="488" source="Lucian" target="Gragas" weight="4.0"></edge>
+      <edge id="489" source="Lucian" target="Lux" weight="6.0"></edge>
+      <edge id="490" source="Lucian" target="Nautilus" weight="2.0"></edge>
+      <edge id="491" source="Gragas" target="Lux" weight="6.0"></edge>
+      <edge id="492" source="Gragas" target="Nautilus" weight="4.0"></edge>
+      <edge id="493" source="Lux" target="Nautilus" weight="4.0"></edge>
+      <edge id="494" source="Kai'Sa" target="Aatrox" weight="12.0"></edge>
+      <edge id="495" source="Aatrox" target="Skarner" weight="16.0"></edge>
+      <edge id="496" source="Skarner" target="Qiyana" weight="2.0"></edge>
+      <edge id="497" source="Xayah" target="Pantheon" weight="2.0"></edge>
+      <edge id="498" source="Pantheon" target="Sylas" weight="2.0"></edge>
+      <edge id="499" source="Pantheon" target="Neeko" weight="2.0"></edge>
+      <edge id="500" source="Pantheon" target="Rakan" weight="2.0"></edge>
+      <edge id="501" source="Sylas" target="Neeko" weight="2.0"></edge>
+      <edge id="502" source="Neeko" target="Rakan" weight="4.0"></edge>
+      <edge id="503" source="Kai'Sa" target="Elise" weight="2.0"></edge>
+      <edge id="504" source="Gangplank" target="Elise" weight="4.0"></edge>
+      <edge id="505" source="Gangplank" target="Irelia" weight="2.0"></edge>
+      <edge id="506" source="Gangplank" target="Rakan" weight="12.0"></edge>
+      <edge id="507" source="Elise" target="Irelia" weight="4.0"></edge>
+      <edge id="508" source="Elise" target="Rakan" weight="6.0"></edge>
+      <edge id="509" source="Irelia" target="Qiyana" weight="4.0"></edge>
+      <edge id="510" source="Jarvan IV" target="Qiyana" weight="4.0"></edge>
+      <edge id="511" source="Ezreal" target="Skarner" weight="6.0"></edge>
+      <edge id="512" source="Skarner" target="Tahm Kench" weight="14.0"></edge>
+      <edge id="513" source="Kog'Maw" target="Irelia" weight="2.0"></edge>
+      <edge id="514" source="Kog'Maw" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="515" source="Kog'Maw" target="Qiyana" weight="2.0"></edge>
+      <edge id="516" source="Kog'Maw" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="517" source="Lucian" target="Rumble" weight="4.0"></edge>
+      <edge id="518" source="Lucian" target="Sylas" weight="4.0"></edge>
+      <edge id="519" source="Lucian" target="Zed" weight="2.0"></edge>
+      <edge id="520" source="Rumble" target="Zed" weight="2.0"></edge>
+      <edge id="521" source="Rumble" target="Lux" weight="6.0"></edge>
+      <edge id="522" source="Sylas" target="Zed" weight="4.0"></edge>
+      <edge id="523" source="Zed" target="Lux" weight="2.0"></edge>
+      <edge id="524" source="Xayah" target="Cassiopeia" weight="2.0"></edge>
+      <edge id="525" source="Cassiopeia" target="Sejuani" weight="2.0"></edge>
+      <edge id="526" source="Cassiopeia" target="Qiyana" weight="2.0"></edge>
+      <edge id="527" source="Cassiopeia" target="Rakan" weight="2.0"></edge>
+      <edge id="528" source="Sejuani" target="Qiyana" weight="2.0"></edge>
+      <edge id="529" source="Lucian" target="Rek'Sai" weight="4.0"></edge>
+      <edge id="530" source="Lucian" target="Qiyana" weight="2.0"></edge>
+      <edge id="531" source="Rek'Sai" target="Qiyana" weight="2.0"></edge>
+      <edge id="532" source="Qiyana" target="Lux" weight="2.0"></edge>
+      <edge id="533" source="Kai'Sa" target="Neeko" weight="2.0"></edge>
+      <edge id="534" source="Kai'Sa" target="Lux" weight="2.0"></edge>
+      <edge id="535" source="Neeko" target="Skarner" weight="6.0"></edge>
+      <edge id="536" source="Rumble" target="Jinx" weight="2.0"></edge>
+      <edge id="537" source="Jarvan IV" target="Jinx" weight="2.0"></edge>
+      <edge id="538" source="Sylas" target="Jinx" weight="2.0"></edge>
+      <edge id="539" source="Nautilus" target="Jinx" weight="2.0"></edge>
+      <edge id="540" source="Xayah" target="Gangplank" weight="10.0"></edge>
+      <edge id="541" source="Gangplank" target="Aatrox" weight="2.0"></edge>
+      <edge id="542" source="Gangplank" target="Neeko" weight="2.0"></edge>
+      <edge id="543" source="Aatrox" target="Neeko" weight="4.0"></edge>
+      <edge id="544" source="Skarner" target="Akali" weight="6.0"></edge>
+      <edge id="545" source="Akali" target="Lux" weight="4.0"></edge>
+      <edge id="546" source="Sivir" target="Neeko" weight="2.0"></edge>
+      <edge id="547" source="Sivir" target="Corki" weight="12.0"></edge>
+      <edge id="548" source="Neeko" target="Corki" weight="6.0"></edge>
+      <edge id="549" source="Neeko" target="Tahm Kench" weight="4.0"></edge>
+      <edge id="550" source="Akali" target="Azir" weight="4.0"></edge>
+      <edge id="551" source="Akali" target="Nautilus" weight="12.0"></edge>
+      <edge id="552" source="Akali" target="Leona" weight="2.0"></edge>
+      <edge id="553" source="Sivir" target="LeBlanc" weight="2.0"></edge>
+      <edge id="554" source="Jayce" target="LeBlanc" weight="2.0"></edge>
+      <edge id="555" source="Jayce" target="Pyke" weight="2.0"></edge>
+      <edge id="556" source="Jarvan IV" target="LeBlanc" weight="6.0"></edge>
+      <edge id="557" source="Jarvan IV" target="Pyke" weight="4.0"></edge>
+      <edge id="558" source="LeBlanc" target="Pyke" weight="2.0"></edge>
+      <edge id="559" source="Sivir" target="Yuumi" weight="10.0"></edge>
+      <edge id="560" source="Sylas" target="Corki" weight="2.0"></edge>
+      <edge id="561" source="Sylas" target="Yuumi" weight="2.0"></edge>
+      <edge id="562" source="Corki" target="Yuumi" weight="12.0"></edge>
+      <edge id="563" source="Sivir" target="Viktor" weight="2.0"></edge>
+      <edge id="564" source="Sivir" target="Renekton" weight="2.0"></edge>
+      <edge id="565" source="Viktor" target="Renekton" weight="2.0"></edge>
+      <edge id="566" source="Viktor" target="Lux" weight="8.0"></edge>
+      <edge id="567" source="Trundle" target="Renekton" weight="2.0"></edge>
+      <edge id="568" source="Renekton" target="Lux" weight="6.0"></edge>
+      <edge id="569" source="Kennen" target="Orianna" weight="2.0"></edge>
+      <edge id="570" source="Kennen" target="Yuumi" weight="6.0"></edge>
+      <edge id="571" source="Kennen" target="Sivir" weight="4.0"></edge>
+      <edge id="572" source="Sejuani" target="Orianna" weight="4.0"></edge>
+      <edge id="573" source="Sejuani" target="Yuumi" weight="8.0"></edge>
+      <edge id="574" source="Orianna" target="Yuumi" weight="2.0"></edge>
+      <edge id="575" source="Ezreal" target="Gangplank" weight="8.0"></edge>
+      <edge id="576" source="Ezreal" target="Trundle" weight="4.0"></edge>
+      <edge id="577" source="Ezreal" target="Orianna" weight="2.0"></edge>
+      <edge id="578" source="Gangplank" target="Trundle" weight="6.0"></edge>
+      <edge id="579" source="Gangplank" target="Orianna" weight="4.0"></edge>
+      <edge id="580" source="Gangplank" target="Tahm Kench" weight="8.0"></edge>
+      <edge id="581" source="Trundle" target="Orianna" weight="4.0"></edge>
+      <edge id="582" source="Trundle" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="583" source="Orianna" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="584" source="Rumble" target="Orianna" weight="4.0"></edge>
+      <edge id="585" source="Rumble" target="Zyra" weight="2.0"></edge>
+      <edge id="586" source="Rek'Sai" target="Orianna" weight="2.0"></edge>
+      <edge id="587" source="Rek'Sai" target="Zyra" weight="2.0"></edge>
+      <edge id="588" source="Rek'Sai" target="Varus" weight="2.0"></edge>
+      <edge id="589" source="Orianna" target="Zyra" weight="2.0"></edge>
+      <edge id="590" source="Orianna" target="Varus" weight="2.0"></edge>
+      <edge id="591" source="Zyra" target="Varus" weight="4.0"></edge>
+      <edge id="592" source="Xayah" target="Diana" weight="2.0"></edge>
+      <edge id="593" source="Aatrox" target="Diana" weight="2.0"></edge>
+      <edge id="594" source="Sylas" target="Diana" weight="2.0"></edge>
+      <edge id="595" source="Diana" target="Nautilus" weight="2.0"></edge>
+      <edge id="596" source="Ashe" target="Gangplank" weight="2.0"></edge>
+      <edge id="597" source="Ashe" target="Skarner" weight="2.0"></edge>
+      <edge id="598" source="Ashe" target="Corki" weight="2.0"></edge>
+      <edge id="599" source="Ashe" target="Thresh" weight="2.0"></edge>
+      <edge id="600" source="Xayah" target="Orianna" weight="6.0"></edge>
+      <edge id="601" source="Xayah" target="Thresh" weight="4.0"></edge>
+      <edge id="602" source="Orianna" target="Aatrox" weight="2.0"></edge>
+      <edge id="603" source="Orianna" target="Thresh" weight="2.0"></edge>
+      <edge id="604" source="Aatrox" target="Thresh" weight="4.0"></edge>
+      <edge id="605" source="Xayah" target="Poppy" weight="6.0"></edge>
+      <edge id="606" source="Xayah" target="Ahri" weight="2.0"></edge>
+      <edge id="607" source="Poppy" target="Skarner" weight="4.0"></edge>
+      <edge id="608" source="Poppy" target="Ahri" weight="2.0"></edge>
+      <edge id="609" source="Skarner" target="Ahri" weight="2.0"></edge>
+      <edge id="610" source="Ahri" target="Rakan" weight="2.0"></edge>
+      <edge id="611" source="Sivir" target="Rek'Sai" weight="4.0"></edge>
+      <edge id="612" source="Jayce" target="Rek'Sai" weight="6.0"></edge>
+      <edge id="613" source="Jayce" target="Azir" weight="8.0"></edge>
+      <edge id="614" source="Rek'Sai" target="Braum" weight="4.0"></edge>
+      <edge id="615" source="Azir" target="Braum" weight="4.0"></edge>
+      <edge id="616" source="Varus" target="Camille" weight="2.0"></edge>
+      <edge id="617" source="Varus" target="Azir" weight="4.0"></edge>
+      <edge id="618" source="Camille" target="Sejuani" weight="6.0"></edge>
+      <edge id="619" source="Camille" target="Azir" weight="4.0"></edge>
+      <edge id="620" source="Camille" target="Zyra" weight="2.0"></edge>
+      <edge id="621" source="Sejuani" target="Zyra" weight="2.0"></edge>
+      <edge id="622" source="Azir" target="Zyra" weight="2.0"></edge>
+      <edge id="623" source="Caitlyn" target="Poppy" weight="2.0"></edge>
+      <edge id="624" source="Caitlyn" target="Syndra" weight="2.0"></edge>
+      <edge id="625" source="Poppy" target="Sylas" weight="6.0"></edge>
+      <edge id="626" source="Poppy" target="Syndra" weight="2.0"></edge>
+      <edge id="627" source="Poppy" target="Morgana" weight="2.0"></edge>
+      <edge id="628" source="Sylas" target="Syndra" weight="4.0"></edge>
+      <edge id="629" source="Sylas" target="Morgana" weight="4.0"></edge>
+      <edge id="630" source="Syndra" target="Morgana" weight="2.0"></edge>
+      <edge id="631" source="Varus" target="Gangplank" weight="2.0"></edge>
+      <edge id="632" source="Varus" target="Karma" weight="2.0"></edge>
+      <edge id="633" source="Varus" target="Tahm Kench" weight="18.0"></edge>
+      <edge id="634" source="Varus" target="Akali" weight="2.0"></edge>
+      <edge id="635" source="Varus" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="636" source="Varus" target="Syndra" weight="2.0"></edge>
+      <edge id="637" source="Akali" target="Syndra" weight="2.0"></edge>
+      <edge id="638" source="Xayah" target="Jayce" weight="14.0"></edge>
+      <edge id="639" source="Xayah" target="Elise" weight="6.0"></edge>
+      <edge id="640" source="Jayce" target="Elise" weight="4.0"></edge>
+      <edge id="641" source="Jayce" target="Qiyana" weight="2.0"></edge>
+      <edge id="642" source="Jayce" target="Rakan" weight="6.0"></edge>
+      <edge id="643" source="Elise" target="Qiyana" weight="2.0"></edge>
+      <edge id="644" source="Caitlyn" target="Akali" weight="6.0"></edge>
+      <edge id="645" source="Caitlyn" target="Jarvan IV" weight="6.0"></edge>
+      <edge id="646" source="Caitlyn" target="Orianna" weight="2.0"></edge>
+      <edge id="647" source="Akali" target="Orianna" weight="2.0"></edge>
+      <edge id="648" source="Jarvan IV" target="Morgana" weight="2.0"></edge>
+      <edge id="649" source="Orianna" target="Morgana" weight="2.0"></edge>
+      <edge id="650" source="Sona" target="Gnar" weight="2.0"></edge>
+      <edge id="651" source="Sona" target="Sejuani" weight="6.0"></edge>
+      <edge id="652" source="Gnar" target="Sejuani" weight="2.0"></edge>
+      <edge id="653" source="Gnar" target="Azir" weight="2.0"></edge>
+      <edge id="654" source="Azir" target="Tahm Kench" weight="16.0"></edge>
+      <edge id="655" source="Xayah" target="Ziggs" weight="2.0"></edge>
+      <edge id="656" source="Jayce" target="Sejuani" weight="10.0"></edge>
+      <edge id="657" source="Jayce" target="Ziggs" weight="2.0"></edge>
+      <edge id="658" source="Jayce" target="Alistar" weight="2.0"></edge>
+      <edge id="659" source="Sejuani" target="Ziggs" weight="2.0"></edge>
+      <edge id="660" source="Ziggs" target="Alistar" weight="2.0"></edge>
+      <edge id="661" source="Kai'Sa" target="Nocturne" weight="2.0"></edge>
+      <edge id="662" source="Kai'Sa" target="Azir" weight="2.0"></edge>
+      <edge id="663" source="Gangplank" target="Nocturne" weight="2.0"></edge>
+      <edge id="664" source="Gangplank" target="Azir" weight="4.0"></edge>
+      <edge id="665" source="Nocturne" target="Azir" weight="2.0"></edge>
+      <edge id="666" source="Nocturne" target="Rakan" weight="2.0"></edge>
+      <edge id="667" source="Gangplank" target="Alistar" weight="2.0"></edge>
+      <edge id="668" source="Elise" target="Syndra" weight="2.0"></edge>
+      <edge id="669" source="Elise" target="Alistar" weight="2.0"></edge>
+      <edge id="670" source="Syndra" target="Alistar" weight="2.0"></edge>
+      <edge id="671" source="Sivir" target="Ryze" weight="8.0"></edge>
+      <edge id="672" source="Sivir" target="Cassiopeia" weight="4.0"></edge>
+      <edge id="673" source="Ryze" target="Jarvan IV" weight="4.0"></edge>
+      <edge id="674" source="Ryze" target="Cassiopeia" weight="2.0"></edge>
+      <edge id="675" source="Ryze" target="Lux" weight="6.0"></edge>
+      <edge id="676" source="Cassiopeia" target="Lux" weight="2.0"></edge>
+      <edge id="677" source="Ezreal" target="Elise" weight="2.0"></edge>
+      <edge id="678" source="Ezreal" target="Azir" weight="12.0"></edge>
+      <edge id="679" source="Renekton" target="Elise" weight="2.0"></edge>
+      <edge id="680" source="Renekton" target="Azir" weight="2.0"></edge>
+      <edge id="681" source="Renekton" target="Tahm Kench" weight="4.0"></edge>
+      <edge id="682" source="Elise" target="Azir" weight="2.0"></edge>
+      <edge id="683" source="Elise" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="684" source="Xayah" target="LeBlanc" weight="4.0"></edge>
+      <edge id="685" source="Kennen" target="Jarvan IV" weight="10.0"></edge>
+      <edge id="686" source="Kennen" target="LeBlanc" weight="4.0"></edge>
+      <edge id="687" source="Kennen" target="Thresh" weight="2.0"></edge>
+      <edge id="688" source="Jarvan IV" target="Thresh" weight="2.0"></edge>
+      <edge id="689" source="LeBlanc" target="Thresh" weight="2.0"></edge>
+      <edge id="690" source="Sona" target="Jayce" weight="8.0"></edge>
+      <edge id="691" source="Sona" target="Skarner" weight="2.0"></edge>
+      <edge id="692" source="Sona" target="Corki" weight="6.0"></edge>
+      <edge id="693" source="Jayce" target="Skarner" weight="4.0"></edge>
+      <edge id="694" source="Jayce" target="Corki" weight="4.0"></edge>
+      <edge id="695" source="Jayce" target="Tahm Kench" weight="10.0"></edge>
+      <edge id="696" source="Vladimir" target="Irelia" weight="2.0"></edge>
+      <edge id="697" source="Sejuani" target="Lux" weight="4.0"></edge>
+      <edge id="698" source="Sejuani" target="Caitlyn" weight="6.0"></edge>
+      <edge id="699" source="Viktor" target="Caitlyn" weight="2.0"></edge>
+      <edge id="700" source="Sylas" target="Trundle" weight="4.0"></edge>
+      <edge id="701" source="Trundle" target="Syndra" weight="2.0"></edge>
+      <edge id="702" source="Syndra" target="Rakan" weight="2.0"></edge>
+      <edge id="703" source="Ezreal" target="Ryze" weight="4.0"></edge>
+      <edge id="704" source="Ezreal" target="Viktor" weight="6.0"></edge>
+      <edge id="705" source="Ryze" target="Trundle" weight="2.0"></edge>
+      <edge id="706" source="Ryze" target="Viktor" weight="2.0"></edge>
+      <edge id="707" source="Sona" target="Kennen" weight="4.0"></edge>
+      <edge id="708" source="Sona" target="LeBlanc" weight="2.0"></edge>
+      <edge id="709" source="LeBlanc" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="710" source="Gangplank" target="Xin Zhao" weight="4.0"></edge>
+      <edge id="711" source="Xin Zhao" target="Azir" weight="2.0"></edge>
+      <edge id="712" source="Caitlyn" target="Braum" weight="2.0"></edge>
+      <edge id="713" source="Karma" target="Azir" weight="2.0"></edge>
+      <edge id="714" source="Karma" target="Braum" weight="2.0"></edge>
+      <edge id="715" source="Caitlyn" target="Camille" weight="2.0"></edge>
+      <edge id="716" source="Caitlyn" target="Corki" weight="4.0"></edge>
+      <edge id="717" source="Caitlyn" target="Nami" weight="2.0"></edge>
+      <edge id="718" source="Camille" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="719" source="Camille" target="Corki" weight="2.0"></edge>
+      <edge id="720" source="Camille" target="Nami" weight="2.0"></edge>
+      <edge id="721" source="Jarvan IV" target="Nami" weight="2.0"></edge>
+      <edge id="722" source="Corki" target="Nami" weight="2.0"></edge>
+      <edge id="723" source="Orianna" target="Rakan" weight="4.0"></edge>
+      <edge id="724" source="Aatrox" target="Olaf" weight="6.0"></edge>
+      <edge id="725" source="Aatrox" target="Cassiopeia" weight="2.0"></edge>
+      <edge id="726" source="Olaf" target="Cassiopeia" weight="2.0"></edge>
+      <edge id="727" source="Syndra" target="Yasuo" weight="2.0"></edge>
+      <edge id="728" source="Gangplank" target="Yasuo" weight="2.0"></edge>
+      <edge id="729" source="Sejuani" target="Yasuo" weight="4.0"></edge>
+      <edge id="730" source="Yasuo" target="Nautilus" weight="4.0"></edge>
+      <edge id="731" source="Xayah" target="Olaf" weight="4.0"></edge>
+      <edge id="732" source="Olaf" target="Neeko" weight="2.0"></edge>
+      <edge id="733" source="Neeko" target="Nautilus" weight="4.0"></edge>
+      <edge id="734" source="Akali" target="Ryze" weight="2.0"></edge>
+      <edge id="735" source="Rek'Sai" target="Ryze" weight="2.0"></edge>
+      <edge id="736" source="Ryze" target="Nautilus" weight="4.0"></edge>
+      <edge id="737" source="Gangplank" target="Galio" weight="2.0"></edge>
+      <edge id="738" source="Skarner" target="Galio" weight="2.0"></edge>
+      <edge id="739" source="Galio" target="Kai'Sa" weight="2.0"></edge>
+      <edge id="740" source="Lucian" target="Gangplank" weight="2.0"></edge>
+      <edge id="741" source="Lucian" target="Xin Zhao" weight="2.0"></edge>
+      <edge id="742" source="Lucian" target="Corki" weight="8.0"></edge>
+      <edge id="743" source="Lucian" target="Yuumi" weight="10.0"></edge>
+      <edge id="744" source="Gangplank" target="Yuumi" weight="4.0"></edge>
+      <edge id="745" source="Xin Zhao" target="Corki" weight="2.0"></edge>
+      <edge id="746" source="Xin Zhao" target="Yuumi" weight="2.0"></edge>
+      <edge id="747" source="Aatrox" target="Pyke" weight="4.0"></edge>
+      <edge id="748" source="Azir" target="Pyke" weight="2.0"></edge>
+      <edge id="749" source="Jayce" target="Gragas" weight="2.0"></edge>
+      <edge id="750" source="Jayce" target="Akali" weight="4.0"></edge>
+      <edge id="751" source="Gragas" target="Veigar" weight="2.0"></edge>
+      <edge id="752" source="Akali" target="Veigar" weight="2.0"></edge>
+      <edge id="753" source="Veigar" target="Xayah" weight="2.0"></edge>
+      <edge id="754" source="Rumble" target="Nocturne" weight="2.0"></edge>
+      <edge id="755" source="Rumble" target="Aatrox" weight="2.0"></edge>
+      <edge id="756" source="Nocturne" target="Aatrox" weight="2.0"></edge>
+      <edge id="757" source="Nocturne" target="Nautilus" weight="2.0"></edge>
+      <edge id="758" source="Nocturne" target="Sivir" weight="2.0"></edge>
+      <edge id="759" source="Gangplank" target="Ryze" weight="4.0"></edge>
+      <edge id="760" source="Sejuani" target="Ryze" weight="2.0"></edge>
+      <edge id="761" source="Ryze" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="762" source="Lucian" target="Aatrox" weight="12.0"></edge>
+      <edge id="763" source="Poppy" target="Elise" weight="2.0"></edge>
+      <edge id="764" source="Elise" target="Corki" weight="2.0"></edge>
+      <edge id="765" source="Morgana" target="Elise" weight="2.0"></edge>
+      <edge id="766" source="Morgana" target="Lucian" weight="2.0"></edge>
+      <edge id="767" source="Morgana" target="Pyke" weight="2.0"></edge>
+      <edge id="768" source="Aatrox" target="Elise" weight="2.0"></edge>
+      <edge id="769" source="Elise" target="Lucian" weight="2.0"></edge>
+      <edge id="770" source="Elise" target="Pyke" weight="2.0"></edge>
+      <edge id="771" source="Lucian" target="Pyke" weight="2.0"></edge>
+      <edge id="772" source="Xayah" target="Zoe" weight="2.0"></edge>
+      <edge id="773" source="Aatrox" target="Zoe" weight="6.0"></edge>
+      <edge id="774" source="Jarvan IV" target="Zoe" weight="6.0"></edge>
+      <edge id="775" source="Zoe" target="Rakan" weight="2.0"></edge>
+      <edge id="776" source="Kennen" target="Rek'Sai" weight="4.0"></edge>
+      <edge id="777" source="Rek'Sai" target="Corki" weight="6.0"></edge>
+      <edge id="778" source="Rek'Sai" target="Yuumi" weight="4.0"></edge>
+      <edge id="779" source="Ezreal" target="Jax" weight="2.0"></edge>
+      <edge id="780" source="Ezreal" target="Rek'Sai" weight="4.0"></edge>
+      <edge id="781" source="Jax" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="782" source="Jax" target="Azir" weight="4.0"></edge>
+      <edge id="783" source="Jax" target="Yuumi" weight="2.0"></edge>
+      <edge id="784" source="Skarner" target="Lucian" weight="2.0"></edge>
+      <edge id="785" source="Tahm Kench" target="Lucian" weight="2.0"></edge>
+      <edge id="786" source="Irelia" target="Vi" weight="2.0"></edge>
+      <edge id="787" source="Irelia" target="Ryze" weight="4.0"></edge>
+      <edge id="788" source="Vi" target="Ryze" weight="2.0"></edge>
+      <edge id="789" source="Vi" target="Braum" weight="2.0"></edge>
+      <edge id="790" source="Vi" target="Xayah" weight="2.0"></edge>
+      <edge id="791" source="Ryze" target="Braum" weight="2.0"></edge>
+      <edge id="792" source="Ryze" target="Xayah" weight="4.0"></edge>
+      <edge id="793" source="Braum" target="Xayah" weight="2.0"></edge>
+      <edge id="794" source="Camille" target="Zoe" weight="2.0"></edge>
+      <edge id="795" source="Camille" target="Tahm Kench" weight="4.0"></edge>
+      <edge id="796" source="Camille" target="Sivir" weight="2.0"></edge>
+      <edge id="797" source="Sejuani" target="Zoe" weight="4.0"></edge>
+      <edge id="798" source="Zoe" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="799" source="Zoe" target="Sivir" weight="6.0"></edge>
+      <edge id="800" source="Pyke" target="Ryze" weight="4.0"></edge>
+      <edge id="801" source="Ryze" target="Rakan" weight="2.0"></edge>
+      <edge id="802" source="Jinx" target="Aatrox" weight="2.0"></edge>
+      <edge id="803" source="Jinx" target="Azir" weight="2.0"></edge>
+      <edge id="804" source="Aatrox" target="Tahm Kench" weight="8.0"></edge>
+      <edge id="805" source="Xayah" target="Karthus" weight="2.0"></edge>
+      <edge id="806" source="Aatrox" target="Karthus" weight="2.0"></edge>
+      <edge id="807" source="Karthus" target="Sylas" weight="2.0"></edge>
+      <edge id="808" source="Karthus" target="Rakan" weight="2.0"></edge>
+      <edge id="809" source="Kai'Sa" target="Karma" weight="2.0"></edge>
+      <edge id="810" source="Kai'Sa" target="Riven" weight="2.0"></edge>
+      <edge id="811" source="Karma" target="Riven" weight="2.0"></edge>
+      <edge id="812" source="Sejuani" target="Riven" weight="2.0"></edge>
+      <edge id="813" source="Riven" target="Rakan" weight="2.0"></edge>
+      <edge id="814" source="Xayah" target="Karma" weight="4.0"></edge>
+      <edge id="815" source="Karma" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="816" source="Karma" target="Corki" weight="6.0"></edge>
+      <edge id="817" source="Rek'Sai" target="Rakan" weight="6.0"></edge>
+      <edge id="818" source="Sona" target="Riven" weight="2.0"></edge>
+      <edge id="819" source="Riven" target="Rek'Sai" weight="4.0"></edge>
+      <edge id="820" source="Riven" target="Corki" weight="2.0"></edge>
+      <edge id="821" source="Riven" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="822" source="Rek'Sai" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="823" source="Kennen" target="Azir" weight="2.0"></edge>
+      <edge id="824" source="Caitlyn" target="Jax" weight="2.0"></edge>
+      <edge id="825" source="Jax" target="Sylas" weight="2.0"></edge>
+      <edge id="826" source="Jax" target="Lux" weight="2.0"></edge>
+      <edge id="827" source="Riven" target="Elise" weight="2.0"></edge>
+      <edge id="828" source="Riven" target="Jayce" weight="2.0"></edge>
+      <edge id="829" source="Riven" target="Lux" weight="2.0"></edge>
+      <edge id="830" source="Riven" target="Caitlyn" weight="2.0"></edge>
+      <edge id="831" source="Elise" target="Lux" weight="2.0"></edge>
+      <edge id="832" source="Elise" target="Caitlyn" weight="2.0"></edge>
+      <edge id="833" source="Jayce" target="Caitlyn" weight="4.0"></edge>
+      <edge id="834" source="Kennen" target="Lee Sin" weight="2.0"></edge>
+      <edge id="835" source="Kennen" target="Jayce" weight="2.0"></edge>
+      <edge id="836" source="Kennen" target="Lux" weight="4.0"></edge>
+      <edge id="837" source="Lee Sin" target="Lux" weight="2.0"></edge>
+      <edge id="838" source="Riven" target="Sylas" weight="2.0"></edge>
+      <edge id="839" source="Riven" target="Nautilus" weight="2.0"></edge>
+      <edge id="840" source="Riven" target="Xayah" weight="2.0"></edge>
+      <edge id="841" source="Elise" target="Ryze" weight="2.0"></edge>
+      <edge id="842" source="Elise" target="Nautilus" weight="2.0"></edge>
+      <edge id="843" source="Elise" target="Sivir" weight="2.0"></edge>
+      <edge id="844" source="Kai'Sa" target="Karthus" weight="2.0"></edge>
+      <edge id="845" source="Kai'Sa" target="Tristana" weight="2.0"></edge>
+      <edge id="846" source="Akali" target="Karthus" weight="2.0"></edge>
+      <edge id="847" source="Akali" target="Tristana" weight="2.0"></edge>
+      <edge id="848" source="Karthus" target="Tristana" weight="4.0"></edge>
+      <edge id="849" source="Karthus" target="Nautilus" weight="2.0"></edge>
+      <edge id="850" source="Kai'Sa" target="Yasuo" weight="2.0"></edge>
+      <edge id="851" source="Aatrox" target="Yasuo" weight="4.0"></edge>
+      <edge id="852" source="Tristana" target="Irelia" weight="2.0"></edge>
+      <edge id="853" source="Tristana" target="Corki" weight="2.0"></edge>
+      <edge id="854" source="Tristana" target="Alistar" weight="2.0"></edge>
+      <edge id="855" source="Irelia" target="Corki" weight="2.0"></edge>
+      <edge id="856" source="Corki" target="Alistar" weight="2.0"></edge>
+      <edge id="857" source="Tristana" target="Zoe" weight="2.0"></edge>
+      <edge id="858" source="Zoe" target="Nautilus" weight="2.0"></edge>
+      <edge id="859" source="Lucian" target="Fiora" weight="2.0"></edge>
+      <edge id="860" source="Fiora" target="Sejuani" weight="2.0"></edge>
+      <edge id="861" source="Fiora" target="Corki" weight="2.0"></edge>
+      <edge id="862" source="Fiora" target="Yuumi" weight="2.0"></edge>
+      <edge id="863" source="Kalista" target="Renekton" weight="2.0"></edge>
+      <edge id="864" source="Kalista" target="Gragas" weight="4.0"></edge>
+      <edge id="865" source="Kalista" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="866" source="Kalista" target="Lux" weight="2.0"></edge>
+      <edge id="867" source="Renekton" target="Gragas" weight="2.0"></edge>
+      <edge id="868" source="Renekton" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="869" source="Gragas" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="870" source="Vel'Koz" target="Lux" weight="2.0"></edge>
+      <edge id="871" source="Gangplank" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="872" source="Gangplank" target="Draven" weight="2.0"></edge>
+      <edge id="873" source="Jarvan IV" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="874" source="Jarvan IV" target="Braum" weight="8.0"></edge>
+      <edge id="875" source="Jarvan IV" target="Draven" weight="6.0"></edge>
+      <edge id="876" source="Vel'Koz" target="Braum" weight="4.0"></edge>
+      <edge id="877" source="Vel'Koz" target="Draven" weight="2.0"></edge>
+      <edge id="878" source="Braum" target="Draven" weight="2.0"></edge>
+      <edge id="879" source="Jayce" target="Anivia" weight="2.0"></edge>
+      <edge id="880" source="Rek'Sai" target="Anivia" weight="2.0"></edge>
+      <edge id="881" source="Rek'Sai" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="882" source="Anivia" target="Tahm Kench" weight="4.0"></edge>
+      <edge id="883" source="Anivia" target="Ezreal" weight="2.0"></edge>
+      <edge id="884" source="Aatrox" target="Anivia" weight="2.0"></edge>
+      <edge id="885" source="Trundle" target="Anivia" weight="2.0"></edge>
+      <edge id="886" source="Trundle" target="Nautilus" weight="2.0"></edge>
+      <edge id="887" source="Anivia" target="Nautilus" weight="2.0"></edge>
+      <edge id="888" source="Anivia" target="Sivir" weight="2.0"></edge>
+      <edge id="889" source="Kai'Sa" target="Twisted Fate" weight="2.0"></edge>
+      <edge id="890" source="Aatrox" target="Twisted Fate" weight="4.0"></edge>
+      <edge id="891" source="Sylas" target="Twisted Fate" weight="4.0"></edge>
+      <edge id="892" source="Sylas" target="Braum" weight="4.0"></edge>
+      <edge id="893" source="Twisted Fate" target="Braum" weight="2.0"></edge>
+      <edge id="894" source="Varus" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="895" source="Aatrox" target="Vel'Koz" weight="4.0"></edge>
+      <edge id="896" source="Sylas" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="897" source="Vel'Koz" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="898" source="Ezreal" target="Lissandra" weight="2.0"></edge>
+      <edge id="899" source="Aatrox" target="Lee Sin" weight="2.0"></edge>
+      <edge id="900" source="Lee Sin" target="Lissandra" weight="2.0"></edge>
+      <edge id="901" source="Lissandra" target="Rakan" weight="2.0"></edge>
+      <edge id="902" source="Varus" target="Renekton" weight="2.0"></edge>
+      <edge id="903" source="Varus" target="Talon" weight="2.0"></edge>
+      <edge id="904" source="Renekton" target="Sylas" weight="2.0"></edge>
+      <edge id="905" source="Renekton" target="Talon" weight="2.0"></edge>
+      <edge id="906" source="Sylas" target="Talon" weight="2.0"></edge>
+      <edge id="907" source="Talon" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="908" source="Neeko" target="Ezreal" weight="2.0"></edge>
+      <edge id="909" source="Thresh" target="Ezreal" weight="2.0"></edge>
+      <edge id="910" source="Kennen" target="Olaf" weight="8.0"></edge>
+      <edge id="911" source="Kennen" target="Anivia" weight="2.0"></edge>
+      <edge id="912" source="Kennen" target="Varus" weight="2.0"></edge>
+      <edge id="913" source="Olaf" target="Anivia" weight="2.0"></edge>
+      <edge id="914" source="Olaf" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="915" source="Olaf" target="Varus" weight="2.0"></edge>
+      <edge id="916" source="Anivia" target="Varus" weight="2.0"></edge>
+      <edge id="917" source="Kennen" target="Nautilus" weight="2.0"></edge>
+      <edge id="918" source="Kennen" target="Draven" weight="2.0"></edge>
+      <edge id="919" source="Olaf" target="Lux" weight="4.0"></edge>
+      <edge id="920" source="Olaf" target="Draven" weight="2.0"></edge>
+      <edge id="921" source="Lux" target="Draven" weight="2.0"></edge>
+      <edge id="922" source="Nautilus" target="Draven" weight="8.0"></edge>
+      <edge id="923" source="Irelia" target="Draven" weight="2.0"></edge>
+      <edge id="924" source="Sejuani" target="Draven" weight="2.0"></edge>
+      <edge id="925" source="Neeko" target="Draven" weight="2.0"></edge>
+      <edge id="926" source="Kalista" target="Aatrox" weight="2.0"></edge>
+      <edge id="927" source="Kalista" target="Tristana" weight="2.0"></edge>
+      <edge id="928" source="Kalista" target="Braum" weight="2.0"></edge>
+      <edge id="929" source="Aatrox" target="Tristana" weight="4.0"></edge>
+      <edge id="930" source="Gragas" target="Tristana" weight="2.0"></edge>
+      <edge id="931" source="Tristana" target="Braum" weight="6.0"></edge>
+      <edge id="932" source="Gangplank" target="Lee Sin" weight="2.0"></edge>
+      <edge id="933" source="Lee Sin" target="Corki" weight="2.0"></edge>
+      <edge id="934" source="Ezreal" target="Tristana" weight="2.0"></edge>
+      <edge id="935" source="Ezreal" target="Karthus" weight="2.0"></edge>
+      <edge id="936" source="Tristana" target="Jarvan IV" weight="4.0"></edge>
+      <edge id="937" source="Jarvan IV" target="Karthus" weight="2.0"></edge>
+      <edge id="938" source="Karthus" target="Braum" weight="2.0"></edge>
+      <edge id="939" source="Kai'Sa" target="Trundle" weight="2.0"></edge>
+      <edge id="940" source="Kai'Sa" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="941" source="Trundle" target="Vel'Koz" weight="2.0"></edge>
+      <edge id="942" source="Trundle" target="Braum" weight="2.0"></edge>
+      <edge id="943" source="Viktor" target="Tristana" weight="2.0"></edge>
+      <edge id="944" source="Viktor" target="Jarvan IV" weight="2.0"></edge>
+      <edge id="945" source="Viktor" target="Karma" weight="2.0"></edge>
+      <edge id="946" source="Viktor" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="947" source="Azir" target="Draven" weight="2.0"></edge>
+      <edge id="948" source="Zoe" target="Braum" weight="2.0"></edge>
+      <edge id="949" source="Trundle" target="Vladimir" weight="2.0"></edge>
+      <edge id="950" source="Trundle" target="Morgana" weight="6.0"></edge>
+      <edge id="951" source="Vladimir" target="Morgana" weight="2.0"></edge>
+      <edge id="952" source="Morgana" target="Xayah" weight="2.0"></edge>
+      <edge id="953" source="Poppy" target="Sejuani" weight="6.0"></edge>
+      <edge id="954" source="Poppy" target="Twisted Fate" weight="4.0"></edge>
+      <edge id="955" source="Poppy" target="Nautilus" weight="8.0"></edge>
+      <edge id="956" source="Sejuani" target="Twisted Fate" weight="2.0"></edge>
+      <edge id="957" source="Twisted Fate" target="Nautilus" weight="6.0"></edge>
+      <edge id="958" source="Twisted Fate" target="Xayah" weight="2.0"></edge>
+      <edge id="959" source="Jayce" target="Vladimir" weight="6.0"></edge>
+      <edge id="960" source="Jayce" target="Nautilus" weight="4.0"></edge>
+      <edge id="961" source="Vladimir" target="Nautilus" weight="2.0"></edge>
+      <edge id="962" source="Sejuani" target="Vladimir" weight="2.0"></edge>
+      <edge id="963" source="Vladimir" target="Yuumi" weight="2.0"></edge>
+      <edge id="964" source="Ezreal" target="Poppy" weight="4.0"></edge>
+      <edge id="965" source="Poppy" target="Bard" weight="2.0"></edge>
+      <edge id="966" source="Corki" target="Bard" weight="2.0"></edge>
+      <edge id="967" source="Draven" target="Trundle" weight="2.0"></edge>
+      <edge id="968" source="Draven" target="Sylas" weight="2.0"></edge>
+      <edge id="969" source="Jayce" target="Karma" weight="2.0"></edge>
+      <edge id="970" source="Olaf" target="Zoe" weight="2.0"></edge>
+      <edge id="971" source="Olaf" target="Ezreal" weight="2.0"></edge>
+      <edge id="972" source="Zoe" target="Lux" weight="2.0"></edge>
+      <edge id="973" source="Zoe" target="Ezreal" weight="2.0"></edge>
+      <edge id="974" source="Rek'Sai" target="Thresh" weight="2.0"></edge>
+      <edge id="975" source="Azir" target="Thresh" weight="2.0"></edge>
+      <edge id="976" source="Azir" target="Lucian" weight="2.0"></edge>
+      <edge id="977" source="Twisted Fate" target="Azir" weight="4.0"></edge>
+      <edge id="978" source="Twisted Fate" target="Tahm Kench" weight="6.0"></edge>
+      <edge id="979" source="Sylas" target="Viktor" weight="4.0"></edge>
+      <edge id="980" source="Poppy" target="Thresh" weight="2.0"></edge>
+      <edge id="981" source="Poppy" target="Sivir" weight="6.0"></edge>
+      <edge id="982" source="Poppy" target="Olaf" weight="2.0"></edge>
+      <edge id="983" source="Olaf" target="Twisted Fate" weight="2.0"></edge>
+      <edge id="984" source="Irelia" target="Azir" weight="4.0"></edge>
+      <edge id="985" source="Nautilus" target="Ezreal" weight="4.0"></edge>
+      <edge id="986" source="Skarner" target="Ryze" weight="4.0"></edge>
+      <edge id="987" source="Skarner" target="Yuumi" weight="4.0"></edge>
+      <edge id="988" source="Ryze" target="Yuumi" weight="2.0"></edge>
+      <edge id="989" source="Rek'Sai" target="Tristana" weight="2.0"></edge>
+      <edge id="990" source="Sylas" target="Tristana" weight="2.0"></edge>
+      <edge id="991" source="Aatrox" target="Bard" weight="2.0"></edge>
+      <edge id="992" source="Jarvan IV" target="Taliyah" weight="2.0"></edge>
+      <edge id="993" source="Taliyah" target="Bard" weight="2.0"></edge>
+      <edge id="994" source="Taliyah" target="Sivir" weight="2.0"></edge>
+      <edge id="995" source="Bard" target="Sivir" weight="2.0"></edge>
+      <edge id="996" source="Poppy" target="Draven" weight="2.0"></edge>
+      <edge id="997" source="Corki" target="Draven" weight="2.0"></edge>
+      <edge id="998" source="Jayce" target="Sylas" weight="4.0"></edge>
+      <edge id="999" source="Jayce" target="Viktor" weight="2.0"></edge>
+      <edge id="1000" source="Braum" target="Lucian" weight="2.0"></edge>
+      <edge id="1001" source="Jayce" target="Zoe" weight="2.0"></edge>
+      <edge id="1002" source="Jayce" target="Taric" weight="4.0"></edge>
+      <edge id="1003" source="Zoe" target="Taric" weight="2.0"></edge>
+      <edge id="1004" source="Zoe" target="Sona" weight="2.0"></edge>
+      <edge id="1005" source="Kennen" target="Sylas" weight="4.0"></edge>
+      <edge id="1006" source="Olaf" target="Sylas" weight="4.0"></edge>
+      <edge id="1007" source="Olaf" target="Rakan" weight="2.0"></edge>
+      <edge id="1008" source="Vladimir" target="Rek'Sai" weight="2.0"></edge>
+      <edge id="1009" source="Vladimir" target="Akali" weight="2.0"></edge>
+      <edge id="1010" source="Vladimir" target="Rakan" weight="2.0"></edge>
+      <edge id="1011" source="Tahm Kench" target="Xayah" weight="2.0"></edge>
+      <edge id="1012" source="Xayah" target="Sona" weight="2.0"></edge>
+      <edge id="1013" source="Skarner" target="Vladimir" weight="2.0"></edge>
+      <edge id="1014" source="Vladimir" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="1015" source="Vladimir" target="Varus" weight="2.0"></edge>
+      <edge id="1016" source="Renekton" target="Akali" weight="8.0"></edge>
+      <edge id="1017" source="Renekton" target="Rakan" weight="2.0"></edge>
+      <edge id="1018" source="Aatrox" target="LeBlanc" weight="4.0"></edge>
+      <edge id="1019" source="Skarner" target="LeBlanc" weight="4.0"></edge>
+      <edge id="1020" source="LeBlanc" target="Braum" weight="2.0"></edge>
+      <edge id="1021" source="LeBlanc" target="Ezreal" weight="2.0"></edge>
+      <edge id="1022" source="Shen" target="Xin Zhao" weight="2.0"></edge>
+      <edge id="1023" source="Shen" target="Akali" weight="2.0"></edge>
+      <edge id="1024" source="Shen" target="Rakan" weight="2.0"></edge>
+      <edge id="1025" source="Shen" target="Kai'Sa" weight="2.0"></edge>
+      <edge id="1026" source="Xin Zhao" target="Kai'Sa" weight="2.0"></edge>
+      <edge id="1027" source="Renekton" target="Nautilus" weight="4.0"></edge>
+      <edge id="1028" source="Renekton" target="Caitlyn" weight="2.0"></edge>
+      <edge id="1029" source="Aatrox" target="Taric" weight="2.0"></edge>
+      <edge id="1030" source="Aatrox" target="Sona" weight="2.0"></edge>
+      <edge id="1031" source="Trundle" target="Corki" weight="2.0"></edge>
+      <edge id="1032" source="Trundle" target="Taric" weight="2.0"></edge>
+      <edge id="1033" source="Trundle" target="Sona" weight="2.0"></edge>
+      <edge id="1034" source="Corki" target="Taric" weight="2.0"></edge>
+      <edge id="1035" source="Karma" target="Yuumi" weight="2.0"></edge>
+      <edge id="1036" source="Neeko" target="Caitlyn" weight="2.0"></edge>
+      <edge id="1037" source="Corki" target="Lux" weight="2.0"></edge>
+      <edge id="1038" source="LeBlanc" target="Rakan" weight="2.0"></edge>
+      <edge id="1039" source="Kennen" target="Karma" weight="2.0"></edge>
+      <edge id="1040" source="Olaf" target="Karma" weight="2.0"></edge>
+      <edge id="1041" source="Aatrox" target="Ryze" weight="2.0"></edge>
+      <edge id="1042" source="Ryze" target="Caitlyn" weight="2.0"></edge>
+      <edge id="1043" source="Volibear" target="Nunu" weight="2.0"></edge>
+      <edge id="1044" source="Volibear" target="Anivia" weight="2.0"></edge>
+      <edge id="1045" source="Volibear" target="Braum" weight="2.0"></edge>
+      <edge id="1046" source="Volibear" target="Ashe" weight="2.0"></edge>
+      <edge id="1047" source="Nunu" target="Anivia" weight="2.0"></edge>
+      <edge id="1048" source="Nunu" target="Braum" weight="2.0"></edge>
+      <edge id="1049" source="Nunu" target="Ashe" weight="2.0"></edge>
+      <edge id="1050" source="Anivia" target="Braum" weight="2.0"></edge>
+      <edge id="1051" source="Anivia" target="Ashe" weight="2.0"></edge>
+      <edge id="1052" source="Braum" target="Ashe" weight="2.0"></edge>
+      <edge id="1053" source="Yasuo" target="Yuumi" weight="2.0"></edge>
+      <edge id="1054" source="Yasuo" target="Lucian" weight="2.0"></edge>
+      <edge id="1055" source="Kennen" target="Twisted Fate" weight="2.0"></edge>
+      <edge id="1056" source="Twisted Fate" target="Sona" weight="4.0"></edge>
+      <edge id="1057" source="Gangplank" target="Morgana" weight="2.0"></edge>
+      <edge id="1058" source="Trundle" target="Akali" weight="2.0"></edge>
+      <edge id="1059" source="Trundle" target="Caitlyn" weight="2.0"></edge>
+      <edge id="1060" source="Kennen" target="Cassiopeia" weight="2.0"></edge>
+      <edge id="1061" source="Kennen" target="Gragas" weight="2.0"></edge>
+      <edge id="1062" source="Kennen" target="Yasuo" weight="2.0"></edge>
+      <edge id="1063" source="Jarvan IV" target="Gragas" weight="2.0"></edge>
+      <edge id="1064" source="Jarvan IV" target="Yasuo" weight="2.0"></edge>
+      <edge id="1065" source="Cassiopeia" target="Gragas" weight="2.0"></edge>
+      <edge id="1066" source="Cassiopeia" target="Yasuo" weight="2.0"></edge>
+      <edge id="1067" source="Syndra" target="Sivir" weight="2.0"></edge>
+      <edge id="1068" source="Irelia" target="Galio" weight="2.0"></edge>
+      <edge id="1069" source="Sejuani" target="Galio" weight="2.0"></edge>
+      <edge id="1070" source="Azir" target="Galio" weight="2.0"></edge>
+      <edge id="1071" source="Galio" target="Ezreal" weight="2.0"></edge>
+      <edge id="1072" source="Jayce" target="Hecarim" weight="2.0"></edge>
+      <edge id="1073" source="Jayce" target="Zilean" weight="2.0"></edge>
+      <edge id="1074" source="Hecarim" target="Zilean" weight="4.0"></edge>
+      <edge id="1075" source="Hecarim" target="Taric" weight="4.0"></edge>
+      <edge id="1076" source="Hecarim" target="Sona" weight="4.0"></edge>
+      <edge id="1077" source="Zilean" target="Taric" weight="2.0"></edge>
+      <edge id="1078" source="Zilean" target="Sona" weight="2.0"></edge>
+      <edge id="1079" source="Kled" target="Akali" weight="2.0"></edge>
+      <edge id="1080" source="Kled" target="Xayah" weight="2.0"></edge>
+      <edge id="1081" source="Kled" target="Vayne" weight="2.0"></edge>
+      <edge id="1082" source="Sejuani" target="Vayne" weight="2.0"></edge>
+      <edge id="1083" source="Corki" target="Vayne" weight="2.0"></edge>
+      <edge id="1084" source="Braum" target="Vayne" weight="2.0"></edge>
+      <edge id="1085" source="Vladimir" target="Corki" weight="2.0"></edge>
+      <edge id="1086" source="Lucian" target="Rakan" weight="2.0"></edge>
+      <edge id="1087" source="Camille" target="Ezreal" weight="2.0"></edge>
+      <edge id="1088" source="Azir" target="Gragas" weight="2.0"></edge>
+      <edge id="1089" source="Gragas" target="Twisted Fate" weight="6.0"></edge>
+      <edge id="1090" source="Rumble" target="Corki" weight="2.0"></edge>
+      <edge id="1091" source="Pyke" target="Hecarim" weight="2.0"></edge>
+      <edge id="1092" source="Pyke" target="Taric" weight="2.0"></edge>
+      <edge id="1093" source="Pyke" target="Sona" weight="2.0"></edge>
+      <edge id="1094" source="Hecarim" target="Ryze" weight="2.0"></edge>
+      <edge id="1095" source="Ryze" target="Taric" weight="2.0"></edge>
+      <edge id="1096" source="Ryze" target="Sona" weight="2.0"></edge>
+      <edge id="1097" source="Kennen" target="Hecarim" weight="2.0"></edge>
+      <edge id="1098" source="Kennen" target="Zilean" weight="2.0"></edge>
+      <edge id="1099" source="Kennen" target="Lucian" weight="2.0"></edge>
+      <edge id="1100" source="Hecarim" target="Yuumi" weight="2.0"></edge>
+      <edge id="1101" source="Hecarim" target="Lucian" weight="2.0"></edge>
+      <edge id="1102" source="Zilean" target="Yuumi" weight="2.0"></edge>
+      <edge id="1103" source="Zilean" target="Lucian" weight="2.0"></edge>
+      <edge id="1104" source="Irelia" target="Caitlyn" weight="2.0"></edge>
+      <edge id="1105" source="Twisted Fate" target="Caitlyn" weight="2.0"></edge>
+      <edge id="1106" source="Sejuani" target="Zed" weight="2.0"></edge>
+      <edge id="1107" source="Zed" target="Sivir" weight="2.0"></edge>
+      <edge id="1108" source="Kled" target="Tahm Kench" weight="2.0"></edge>
+      <edge id="1109" source="Kled" target="Sona" weight="2.0"></edge>
+      <edge id="1110" source="Sylas" target="Sona" weight="2.0"></edge>
+      <edge id="1111" source="Aatrox" target="Syndra" weight="2.0"></edge>
+      <edge id="1112" source="Syndra" target="Yuumi" weight="2.0"></edge>
+      <edge id="1113" source="Syndra" target="Ezreal" weight="2.0"></edge>
+    </edges>
+  </graph>
+</gexf>
