@@ -1,4 +1,4 @@
-# League of Legends Visualization - Dean Haleem.10, Alex Dennis.411
+# League of Legends Visualization
 
 To run, open the html files. Some browsers don't play well, though, when the files are run locally. I used Microsoft Edge to run it locally, and that worked, however, you may not have access to Microsoft Edge.
 
